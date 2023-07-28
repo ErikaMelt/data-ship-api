@@ -82,3 +82,12 @@ class DataAnalyzer:
             return nulls_result
         except ValueError as e:
             raise ValueError("Error getting missing values: " + str(e))
+
+
+    @staticmethod
+    def plot_distribution_box_plot(df, x_feature, y_feature, x_label, y_label, title):
+        sns.boxplot(x=x_feature, y=y_feature,data=df)
+        plt.xlabel(x_label)
+        plt.ylabel(y_label)
+        plt.title(title)
+        plt.show()
