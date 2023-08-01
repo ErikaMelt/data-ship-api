@@ -2,6 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
 class DataAnalyzer:
     """
     A utility class for analyzing data and plotting survival information.
@@ -21,13 +22,18 @@ class DataAnalyzer:
                     passengers who survived for each category of the feature.
         """
         try:
-            grouped = df.groupby([feature_to_group, 'survived']).size().reset_index(name='count')
-            total_passengers = grouped.groupby(feature_to_group)['count'].sum().reset_index()
-            grouped = grouped.merge(total_passengers, on=feature_to_group, suffixes=('', '_total'))
-            grouped['survival_percentage'] = grouped['count'] / grouped['count_total'] * 100
+            grouped = df.groupby(
+                [feature_to_group, 'survived']).size().reset_index(name='count')
+            total_passengers = grouped.groupby(feature_to_group)[
+                'count'].sum().reset_index()
+            grouped = grouped.merge(
+                total_passengers, on=feature_to_group, suffixes=('', '_total'))
+            grouped['survival_percentage'] = grouped['count'] / \
+                grouped['count_total'] * 100
             return grouped
         except ValueError as e:
-            raise ValueError("Error calculating survival percentage: " + str(e))
+            raise ValueError(
+                "Error calculating survival percentage: " + str(e))
 
     @staticmethod
     def plot_survival_by_feature(grouped_data, feature_x, x_title, y_title, title):
@@ -45,15 +51,17 @@ class DataAnalyzer:
             None
         """
         try:
-            ax = sns.barplot(x=feature_x, y='survival_percentage', hue='survived', data=grouped_data)
+            ax = sns.barplot(x=feature_x, y='survival_percentage',
+                             hue='survived', data=grouped_data)
             plt.xlabel(x_title)
             plt.ylabel(y_title)
             plt.title(title, fontsize=16)
 
-            ax.legend(title='Survived', loc='upper left', facecolor='white', framealpha=1)
+            ax.legend(title='Survived', loc='upper left',
+                      facecolor='white', framealpha=1)
             for p in ax.patches:
-                ax.annotate(f'{p.get_height():.1f}%', (p.get_x() + p.get_width() / 2., p.get_height()), 
-                            ha='center', va='center', fontsize=10, color='black', xytext=(0, 5), 
+                ax.annotate(f'{p.get_height():.1f}%', (p.get_x() + p.get_width() / 2., p.get_height()),
+                            ha='center', va='center', fontsize=10, color='black', xytext=(0, 5),
                             textcoords='offset points')
 
             plt.show()
@@ -73,20 +81,21 @@ class DataAnalyzer:
         """
         try:
             null_per_column = df.isnull().sum()
-            nulls_grt_zero = null_per_column[null_per_column > 0].sort_values(ascending=False)
+            nulls_grt_zero = null_per_column[null_per_column > 0].sort_values(
+                ascending=False)
             total_datos = df.shape[0]
             perc_nulls = nulls_grt_zero / total_datos * 100
             nulls_table = pd.concat([nulls_grt_zero, perc_nulls], axis=1)
             nulls_table.columns = ['Total Nulos', '% Nulos']
-            nulls_result = nulls_table.style.background_gradient(cmap='Oranges', low=0, high=1)
+            nulls_result = nulls_table.style.background_gradient(
+                cmap='Oranges', low=0, high=1)
             return nulls_result
         except ValueError as e:
             raise ValueError("Error getting missing values: " + str(e))
 
-
     @staticmethod
     def plot_distribution_box_plot(df, x_feature, y_feature, x_label, y_label, title):
-        sns.boxplot(x=x_feature, y=y_feature,data=df)
+        sns.boxplot(x=x_feature, y=y_feature, data=df)
         plt.xlabel(x_label)
         plt.ylabel(y_label)
         plt.title(title)
