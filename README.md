@@ -1,6 +1,5 @@
 # Titanic Survival Prediction API
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg" alt="titanic" width="500" height="400">
 
 
