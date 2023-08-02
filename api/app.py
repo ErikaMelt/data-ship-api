@@ -9,13 +9,12 @@ app = Flask(__name__)
 api = Api(app)
 
 model = load_file(config.MODEL_PATH)
-API_URL = '/static/swagger.json' 
 
 # Call factory function to create our blueprint
 swaggerui_blueprint = get_swaggerui_blueprint(
-    config.SWAGGER_URL,  # Swagger UI static files will be mapped to '{SWAGGER_URL}/dist/'
-    API_URL,
-    config={  # Swagger UI config overrides
+    config.SWAGGER_URL,  
+    config.API_URL,
+    config={  
         'app_name': "Survival Prediction API"
     },
 )
