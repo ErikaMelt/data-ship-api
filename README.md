@@ -110,12 +110,5 @@ This project is licensed under the [Apache License 2.0](http://www.apache.org/li
 ## Author
 
 Created by [Erika](https://github.com/ErikaMelt)
-
 For any questions or inquiries, please contact me at: erikapaolaortiz@gmail.com
-
----
-Feel free to customize this README with more information about your project and its features. Replace `<your-username>` and `<your-repo>` with your GitHub username and repository name, respectively. Add more details about the API, its usage, and any other relevant information that you want to share with users.
-
-
-
 
