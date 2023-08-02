@@ -23,9 +23,7 @@ The API follows a simple client-server architecture, where the client sends a PO
 To run the API locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
+git clone https://github.com/ErikaMelt/data-ship-api.git
 2. Install the required dependencies using `pip`:
 pip install -r requirements.txt
 
