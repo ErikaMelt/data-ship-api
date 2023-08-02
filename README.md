@@ -107,7 +107,7 @@ This project is licensed under the [Apache License 2.0](http://www.apache.org/li
 
 ## Author
 
-Created by [Your Name](https://github.com/<your-username>)
+Created by [Erika](https://github.com/ErikaMelt)
 
 For any questions or inquiries, please contact me at: your.email@example.com
 
