@@ -1,0 +1,173 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Titanic Survival Prediction API",
+    "description": "Predict Passenger Survival on the Titanic Ship",
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "version": "1.0.0"
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  },
+  "servers": [
+    {
+      "url": "http://127.0.0.1:5000"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Prediction",
+      "description": "Survival Prediction"
+    },
+    {
+      "name": "Ping",
+      "description": "Health Check"
+    }
+  ],
+  "paths": {
+    "/predict": {
+      "post": {
+        "tags": ["Prediction"],
+        "summary": "Get survival prediction from the Ship",
+        "description": "Get survival predictions for passengers on the Titanic based on their attributes such as passenger class, gender, embarked port, family size, fare, and age",
+        "operationId": "getSurvivalPrediction",
+        "requestBody": {
+          "description": "Get a prediction",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PredictionRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PredictionResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request: If the input data is not in the expected format."
+          },
+          "500": {
+            "description": "Internal Server Error: If an unexpected error occurs during prediction."
+          }
+        }
+      }
+    },
+    "/ping": {
+      "get": {
+        "tags": ["Ping"],
+        "summary": "Returns a health check API status",
+        "description": "API health check status",
+        "operationId": "pingcheck",
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message": {
+                      "type": "string",
+                      "example": "API is alive"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request: If the input data is not in the expected format."
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PredictionRequest": {
+        "type": "object",
+        "properties": {
+          "passenger_class": {
+            "type": "string",
+            "description": "Passenger class, should be 'first', 'second', or 'third'.",
+            "example": "first"
+          },
+          "gender": {
+            "type": "string",
+            "description": "Gender of the passenger, should be 'male' or 'female'.",
+            "example": "female"
+          },
+          "embarked_from": {
+            "type": "string",
+            "description": "Port of embarkation, should be 'Southampton', 'Queenstown', or 'Cherbourg'.",
+            "example": "Southampton"
+          },
+          "family_size": {
+            "type": "integer",
+            "description": "Number of family members.",
+            "example": 2
+          },
+          "fare": {
+            "type": "number",
+            "description": "Fare amount.",
+            "example": 100
+          },
+          "age": {
+            "type": "integer",
+            "description": "Age of the passenger.",
+            "example": 35
+          }
+        },
+        "required": [
+          "passenger_class",
+          "gender",
+          "embarked_from",
+          "family_size",
+          "fare",
+          "age"
+        ]
+      },
+      "PredictionResponse": {
+        "type": "object",
+        "properties": {
+          "predictions": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int64",
+              "example": 1
+            }
+          },
+          "probabilities": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "number",
+                "format": "float",
+                "example": 0.2
+              }
+            }
+          }
+        },
+        "xml": {
+          "name": "PredictionResponse"
+        }
+      }
+    }
+  }
+}
