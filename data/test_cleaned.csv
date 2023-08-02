@@ -1,419 +1,419 @@
 passenger_class,name,gender,age,sibling_spouse_count,parent_child_count,ticket,ticket_fare,cabin,embarked_from,age_range,family_size,cabin_group,winsorized_fare
-third,"kelly, mr. james",male,34.5,0,0,330911,7.8292,,queenstown,30-39,0,,7.8292
-third,"wilkes, mrs. james (ellen needs)",female,47.0,1,0,363272,7.0,,southampton,40-49,1,,7.0
-second,"myles, mr. thomas francis",male,62.0,0,0,240276,9.6875,,queenstown,60-69,0,,9.6875
-third,"wirz, mr. albert",male,27.0,0,0,315154,8.6625,,southampton,20-29,0,,8.6625
-third,"hirvonen, mrs. alexander (helga e lindqvist)",female,22.0,1,1,3101298,12.2875,,southampton,20-29,2,,12.2875
-third,"svensson, mr. johan cervin",male,14.0,0,0,7538,9.225,,southampton,10-19,0,,9.225
-third,"connolly, miss. kate",female,30.0,0,0,330972,7.6292,,queenstown,30-39,0,,7.6292
-second,"caldwell, mr. albert francis",male,26.0,1,1,248738,29.0,,southampton,20-29,2,,29.0
-third,"abrahim, mrs. joseph (sophie halaut easu)",female,18.0,0,0,2657,7.2292,,cherbourg,10-19,0,,7.2292
-third,"davies, mr. john samuel",male,21.0,2,0,a/4 48871,24.15,,southampton,20-29,2,,24.15
-third,"ilieff, mr. ylio",male,,0,0,349220,7.8958,,southampton,,0,,7.8958
-first,"jones, mr. charles cresson",male,46.0,0,0,694,26.0,,southampton,40-49,0,,26.0
+third,"kelly, mr. james",male,34.5,0,0,330911,7.8292,,queenstown,20-29,0,,7.8292
+third,"wilkes, mrs. james (ellen needs)",female,47.0,1,0,363272,7.0,,southampton,30-39,1,,7.0
+second,"myles, mr. thomas francis",male,62.0,0,0,240276,9.6875,,queenstown,20-29,0,,9.6875
+third,"wirz, mr. albert",male,27.0,0,0,315154,8.6625,,southampton,30-39,0,,8.6625
+third,"hirvonen, mrs. alexander (helga e lindqvist)",female,22.0,1,1,3101298,12.2875,,southampton,30-39,2,,12.2875
+third,"svensson, mr. johan cervin",male,14.0,0,0,7538,9.225,,southampton,,0,,9.225
+third,"connolly, miss. kate",female,30.0,0,0,330972,7.6292,,queenstown,50-59,0,,7.6292
+second,"caldwell, mr. albert francis",male,26.0,1,1,248738,29.0,,southampton,0-9,2,,29.0
+third,"abrahim, mrs. joseph (sophie halaut easu)",female,18.0,0,0,2657,7.2292,,cherbourg,20-29,0,,7.2292
+third,"davies, mr. john samuel",male,21.0,2,0,a/4 48871,24.15,,southampton,10-19,2,,24.15
+third,"ilieff, mr. ylio",male,,0,0,349220,7.8958,,southampton,0-9,0,,7.8958
+first,"jones, mr. charles cresson",male,46.0,0,0,694,26.0,,southampton,50-59,0,,26.0
 first,"snyder, mrs. john pillsbury (nelle stevenson)",female,23.0,1,0,21228,82.2667,b45,southampton,20-29,1,b,82.2667
-second,"howard, mr. benjamin",male,63.0,1,0,24065,26.0,,southampton,60-69,1,,26.0
-first,"chaffee, mrs. herbert fuller (carrie constance toogood)",female,47.0,1,0,w.e.p. 5734,61.175,e31,southampton,40-49,1,e,61.175
-second,"del carlo, mrs. sebastiano (argenia genovesi)",female,24.0,1,0,sc/paris 2167,27.7208,,cherbourg,20-29,1,,27.7208
-second,"keane, mr. daniel",male,35.0,0,0,233734,12.35,,queenstown,30-39,0,,12.35
-third,"assaf, mr. gerios",male,21.0,0,0,2692,7.225,,cherbourg,20-29,0,,7.225
-third,"ilmakangas, miss. ida livija",female,27.0,1,0,ston/o2. 3101270,7.925,,southampton,20-29,1,,7.925
-third,"assaf khalil, mrs. mariana (miriam"")""",female,45.0,0,0,2696,7.225,,cherbourg,40-49,0,,7.225
-first,"rothschild, mr. martin",male,55.0,1,0,pc 17603,59.4,,cherbourg,50-59,1,,59.4
-third,"olsen, master. artur karl",male,9.0,0,1,c 17368,3.1708,,southampton,0-9,1,,6.4375
-first,"flegenheim, mrs. alfred (antoinette)",female,,0,0,pc 17598,31.6833,,southampton,,0,,31.6833
+second,"howard, mr. benjamin",male,63.0,1,0,24065,26.0,,southampton,30-39,1,,26.0
+first,"chaffee, mrs. herbert fuller (carrie constance toogood)",female,47.0,1,0,w.e.p. 5734,61.175,e31,southampton,10-19,1,e,61.175
+second,"del carlo, mrs. sebastiano (argenia genovesi)",female,24.0,1,0,sc/paris 2167,27.7208,,cherbourg,50-59,1,,27.7208
+second,"keane, mr. daniel",male,35.0,0,0,233734,12.35,,queenstown,0-9,0,,12.35
+third,"assaf, mr. gerios",male,21.0,0,0,2692,7.225,,cherbourg,,0,,7.225
+third,"ilmakangas, miss. ida livija",female,27.0,1,0,ston/o2. 3101270,7.925,,southampton,30-39,1,,7.925
+third,"assaf khalil, mrs. mariana (miriam"")""",female,45.0,0,0,2696,7.225,,cherbourg,,0,,7.225
+first,"rothschild, mr. martin",male,55.0,1,0,pc 17603,59.4,,cherbourg,30-39,1,,59.4
+third,"olsen, master. artur karl",male,9.0,0,1,c 17368,3.1708,,southampton,30-39,1,,6.4375
+first,"flegenheim, mrs. alfred (antoinette)",female,,0,0,pc 17598,31.6833,,southampton,10-19,0,,31.6833
 first,"williams, mr. richard norris ii",male,21.0,0,1,pc 17597,61.3792,,cherbourg,20-29,1,,61.3792
-first,"ryerson, mrs. arthur larned (emily maria borie)",female,48.0,1,3,pc 17608,262.375,b57 b59 b63 b66,cherbourg,40-49,4,b,262.375
-third,"robins, mr. alexander a",male,50.0,1,0,a/5. 3337,14.5,,southampton,50-59,1,,14.5
-first,"ostby, miss. helene ragnhild",female,22.0,0,1,113509,61.9792,b36,cherbourg,20-29,1,b,61.9792
-third,"daher, mr. shedid",male,22.5,0,0,2698,7.225,,cherbourg,20-29,0,,7.225
-first,"brady, mr. john bertram",male,41.0,0,0,113054,30.5,a21,southampton,40-49,0,a,30.5
+first,"ryerson, mrs. arthur larned (emily maria borie)",female,48.0,1,3,pc 17608,262.375,b57 b59 b63 b66,cherbourg,0-9,4,b,262.375
+third,"robins, mr. alexander a",male,50.0,1,0,a/5. 3337,14.5,,southampton,30-39,1,,14.5
+first,"ostby, miss. helene ragnhild",female,22.0,0,1,113509,61.9792,b36,cherbourg,,1,b,61.9792
+third,"daher, mr. shedid",male,22.5,0,0,2698,7.225,,cherbourg,10-19,0,,7.225
+first,"brady, mr. john bertram",male,41.0,0,0,113054,30.5,a21,southampton,,0,a,30.5
 third,"samaan, mr. elias",male,,2,0,2662,21.6792,,cherbourg,,2,,21.6792
-second,"louch, mr. charles alexander",male,50.0,1,0,sc/ah 3085,26.0,,southampton,50-59,1,,26.0
-second,"jefferys, mr. clifford thomas",male,24.0,2,0,c.a. 31029,31.5,,southampton,20-29,2,,31.5
-third,"dean, mrs. bertram (eva georgetta light)",female,33.0,1,2,c.a. 2315,20.575,,southampton,30-39,3,,20.575
-third,"johnston, mrs. andrew g (elizabeth lily"" watson)""",female,,1,2,w./c. 6607,23.45,,southampton,,3,,23.45
-first,"mock, mr. philipp edmund",male,30.0,1,0,13236,57.75,c78,cherbourg,30-39,1,c,57.75
-third,"katavelas, mr. vassilios (catavelas vassilios"")""",male,18.5,0,0,2682,7.2292,,cherbourg,10-19,0,,7.2292
+second,"louch, mr. charles alexander",male,50.0,1,0,sc/ah 3085,26.0,,southampton,40-49,1,,26.0
+second,"jefferys, mr. clifford thomas",male,24.0,2,0,c.a. 31029,31.5,,southampton,,2,,31.5
+third,"dean, mrs. bertram (eva georgetta light)",female,33.0,1,2,c.a. 2315,20.575,,southampton,,3,,20.575
+third,"johnston, mrs. andrew g (elizabeth lily"" watson)""",female,,1,2,w./c. 6607,23.45,,southampton,60-69,3,,23.45
+first,"mock, mr. philipp edmund",male,30.0,1,0,13236,57.75,c78,cherbourg,20-29,1,c,57.75
+third,"katavelas, mr. vassilios (catavelas vassilios"")""",male,18.5,0,0,2682,7.2292,,cherbourg,40-49,0,,7.2292
 third,"roth, miss. sarah a",female,,0,0,342712,8.05,,southampton,,0,,8.05
 third,"cacic, miss. manda",female,21.0,0,0,315087,8.6625,,southampton,20-29,0,,8.6625
-third,"sap, mr. julius",male,25.0,0,0,345768,9.5,,southampton,20-29,0,,9.5
-third,"hee, mr. ling",male,,0,0,1601,56.4958,,southampton,,0,,56.4958
-third,"karun, mr. franz",male,39.0,0,1,349256,13.4167,,cherbourg,30-39,1,,13.4167
-first,"franklin, mr. thomas parham",male,,0,0,113778,26.55,d34,southampton,,0,d,26.55
-third,"goldsmith, mr. nathan",male,41.0,0,0,soton/o.q. 3101263,7.85,,southampton,40-49,0,,7.85
-second,"corbett, mrs. walter h (irene colvin)",female,30.0,0,0,237249,13.0,,southampton,30-39,0,,13.0
-first,"kimball, mrs. edwin nelson jr (gertrude parsons)",female,45.0,1,0,11753,52.5542,d19,southampton,40-49,1,d,52.5542
-third,"peltomaki, mr. nikolai johannes",male,25.0,0,0,ston/o 2. 3101291,7.925,,southampton,20-29,0,,7.925
-first,"chevre, mr. paul romaine",male,45.0,0,0,pc 17594,29.7,a9,cherbourg,40-49,0,a,29.7
+third,"sap, mr. julius",male,25.0,0,0,345768,9.5,,southampton,10-19,0,,9.5
+third,"hee, mr. ling",male,,0,0,1601,56.4958,,southampton,10-19,0,,56.4958
+third,"karun, mr. franz",male,39.0,0,1,349256,13.4167,,cherbourg,40-49,1,,13.4167
+first,"franklin, mr. thomas parham",male,,0,0,113778,26.55,d34,southampton,20-29,0,d,26.55
+third,"goldsmith, mr. nathan",male,41.0,0,0,soton/o.q. 3101263,7.85,,southampton,,0,,7.85
+second,"corbett, mrs. walter h (irene colvin)",female,30.0,0,0,237249,13.0,,southampton,0-9,0,,13.0
+first,"kimball, mrs. edwin nelson jr (gertrude parsons)",female,45.0,1,0,11753,52.5542,d19,southampton,10-19,1,d,52.5542
+third,"peltomaki, mr. nikolai johannes",male,25.0,0,0,ston/o 2. 3101291,7.925,,southampton,,0,,7.925
+first,"chevre, mr. paul romaine",male,45.0,0,0,pc 17594,29.7,a9,cherbourg,,0,a,29.7
 third,"shaughnessy, mr. patrick",male,,0,0,370374,7.75,,queenstown,,0,,7.75
-first,"bucknell, mrs. william robert (emma eliza ward)",female,60.0,0,0,11813,76.2917,d15,cherbourg,60-69,0,d,76.2917
-third,"coutts, mrs. william (winnie minnie"" treanor)""",female,36.0,0,2,c.a. 37671,15.9,,southampton,30-39,2,,15.9
-first,"smith, mr. lucien philip",male,24.0,1,0,13695,60.0,c31,southampton,20-29,1,c,60.0
+first,"bucknell, mrs. william robert (emma eliza ward)",female,60.0,0,0,11813,76.2917,d15,cherbourg,,0,d,76.2917
+third,"coutts, mrs. william (winnie minnie"" treanor)""",female,36.0,0,2,c.a. 37671,15.9,,southampton,10-19,2,,15.9
+first,"smith, mr. lucien philip",male,24.0,1,0,13695,60.0,c31,southampton,0-9,1,c,60.0
 second,"pulbaum, mr. franz",male,27.0,0,0,sc/paris 2168,15.0333,,cherbourg,20-29,0,,15.0333
-second,"hocking, miss. ellen nellie""""",female,20.0,2,1,29105,23.0,,southampton,20-29,3,,23.0
+second,"hocking, miss. ellen nellie""""",female,20.0,2,1,29105,23.0,,southampton,40-49,3,,23.0
 first,"fortune, miss. ethel flora",female,28.0,3,2,19950,263.0,c23 c25 c27,southampton,20-29,5,c,262.375
-second,"mangiavacchi, mr. serafino emilio",male,,0,0,sc/a.3 2861,15.5792,,cherbourg,,0,,15.5792
-third,"rice, master. albert",male,10.0,4,1,382652,29.125,,queenstown,10-19,5,,29.125
-third,"cor, mr. bartol",male,35.0,0,0,349230,7.8958,,southampton,30-39,0,,7.8958
+second,"mangiavacchi, mr. serafino emilio",male,,0,0,sc/a.3 2861,15.5792,,cherbourg,60-69,0,,15.5792
+third,"rice, master. albert",male,10.0,4,1,382652,29.125,,queenstown,,5,,29.125
+third,"cor, mr. bartol",male,35.0,0,0,349230,7.8958,,southampton,20-29,0,,7.8958
 third,"abelseth, mr. olaus jorgensen",male,25.0,0,0,348122,7.65,f g63,southampton,20-29,0,f,7.65
-third,"davison, mr. thomas henry",male,,1,0,386525,16.1,,southampton,,1,,16.1
-first,"chaudanson, miss. victorine",female,36.0,0,0,pc 17608,262.375,b61,cherbourg,30-39,0,b,262.375
-third,"dika, mr. mirko",male,17.0,0,0,349232,7.8958,,southampton,10-19,0,,7.8958
+third,"davison, mr. thomas henry",male,,1,0,386525,16.1,,southampton,0-9,1,,16.1
+first,"chaudanson, miss. victorine",female,36.0,0,0,pc 17608,262.375,b61,cherbourg,10-19,0,b,262.375
+third,"dika, mr. mirko",male,17.0,0,0,349232,7.8958,,southampton,20-29,0,,7.8958
 second,"mccrae, mr. arthur gordon",male,32.0,0,0,237216,13.5,,southampton,30-39,0,,13.5
-third,"bjorklund, mr. ernst herbert",male,18.0,0,0,347090,7.75,,southampton,10-19,0,,7.75
-third,"bradley, miss. bridget delia",female,22.0,0,0,334914,7.725,,queenstown,20-29,0,,7.725
-first,"ryerson, master. john borie",male,13.0,2,2,pc 17608,262.375,b57 b59 b63 b66,cherbourg,10-19,4,b,262.375
+third,"bjorklund, mr. ernst herbert",male,18.0,0,0,347090,7.75,,southampton,40-49,0,,7.75
+third,"bradley, miss. bridget delia",female,22.0,0,0,334914,7.725,,queenstown,0-9,0,,7.725
+first,"ryerson, master. john borie",male,13.0,2,2,pc 17608,262.375,b57 b59 b63 b66,cherbourg,,4,b,262.375
 second,"corey, mrs. percy c (mary phyllis elizabeth miller)",female,,0,0,f.c.c. 13534,21.0,,southampton,,0,,21.0
-third,"burns, miss. mary delia",female,18.0,0,0,330963,7.8792,,queenstown,10-19,0,,7.8792
-first,"moore, mr. clarence bloomfield",male,47.0,0,0,113796,42.4,,southampton,40-49,0,,42.4
-first,"tucker, mr. gilbert milligan jr",male,31.0,0,0,2543,28.5375,c53,cherbourg,30-39,0,c,28.5375
-first,"fortune, mrs. mark (mary mcdougald)",female,60.0,1,4,19950,263.0,c23 c25 c27,southampton,60-69,5,c,262.375
-third,"mulvihill, miss. bertha e",female,24.0,0,0,382653,7.75,,queenstown,20-29,0,,7.75
-third,"minkoff, mr. lazar",male,21.0,0,0,349211,7.8958,,southampton,20-29,0,,7.8958
+third,"burns, miss. mary delia",female,18.0,0,0,330963,7.8792,,queenstown,20-29,0,,7.8792
+first,"moore, mr. clarence bloomfield",male,47.0,0,0,113796,42.4,,southampton,10-19,0,,42.4
+first,"tucker, mr. gilbert milligan jr",male,31.0,0,0,2543,28.5375,c53,cherbourg,10-19,0,c,28.5375
+first,"fortune, mrs. mark (mary mcdougald)",female,60.0,1,4,19950,263.0,c23 c25 c27,southampton,20-29,5,c,262.375
+third,"mulvihill, miss. bertha e",female,24.0,0,0,382653,7.75,,queenstown,30-39,0,,7.75
+third,"minkoff, mr. lazar",male,21.0,0,0,349211,7.8958,,southampton,10-19,0,,7.8958
 third,"nieminen, miss. manta josefina",female,29.0,0,0,3101297,7.925,,southampton,20-29,0,,7.925
 first,"ovies y rodriguez, mr. servando",male,28.5,0,0,pc 17562,27.7208,d43,cherbourg,20-29,0,d,27.7208
 first,"geiger, miss. amalie",female,35.0,0,0,113503,211.5,c130,cherbourg,30-39,0,c,211.5
-first,"keeping, mr. edwin",male,32.5,0,0,113503,211.5,c132,cherbourg,30-39,0,c,211.5
+first,"keeping, mr. edwin",male,32.5,0,0,113503,211.5,c132,cherbourg,20-29,0,c,211.5
 third,"miles, mr. frank",male,,0,0,359306,8.05,,southampton,,0,,8.05
-first,"cornell, mrs. robert clifford (malvina helen lamson)",female,55.0,2,0,11770,25.7,c101,southampton,50-59,2,c,25.7
-second,"aldworth, mr. charles augustus",male,30.0,0,0,248744,13.0,,southampton,30-39,0,,13.0
-third,"doyle, miss. elizabeth",female,24.0,0,0,368702,7.75,,queenstown,20-29,0,,7.75
-third,"boulos, master. akar",male,6.0,1,1,2678,15.2458,,cherbourg,0-9,2,,15.2458
-first,"straus, mr. isidor",male,67.0,1,0,pc 17483,221.7792,c55 c57,southampton,60-69,1,c,221.7792
-first,"case, mr. howard brown",male,49.0,0,0,19924,26.0,,southampton,40-49,0,,26.0
-third,"demetri, mr. marinko",male,,0,0,349238,7.8958,,southampton,,0,,7.8958
-second,"lamb, mr. john joseph",male,,0,0,240261,10.7083,,queenstown,,0,,10.7083
-third,"khalil, mr. betros",male,,1,0,2660,14.4542,,cherbourg,,1,,14.4542
-third,"barry, miss. julia",female,27.0,0,0,330844,7.8792,,queenstown,20-29,0,,7.8792
-third,"badman, miss. emily louisa",female,18.0,0,0,a/4 31416,8.05,,southampton,10-19,0,,8.05
-third,"o'donoghue, ms. bridget",female,,0,0,364856,7.75,,queenstown,,0,,7.75
-second,"wells, master. ralph lester",male,2.0,1,1,29103,23.0,,southampton,0-9,2,,23.0
+first,"cornell, mrs. robert clifford (malvina helen lamson)",female,55.0,2,0,11770,25.7,c101,southampton,,2,c,25.7
+second,"aldworth, mr. charles augustus",male,30.0,0,0,248744,13.0,,southampton,0-9,0,,13.0
+third,"doyle, miss. elizabeth",female,24.0,0,0,368702,7.75,,queenstown,30-39,0,,7.75
+third,"boulos, master. akar",male,6.0,1,1,2678,15.2458,,cherbourg,20-29,2,,15.2458
+first,"straus, mr. isidor",male,67.0,1,0,pc 17483,221.7792,c55 c57,southampton,20-29,1,c,221.7792
+first,"case, mr. howard brown",male,49.0,0,0,19924,26.0,,southampton,,0,,26.0
+third,"demetri, mr. marinko",male,,0,0,349238,7.8958,,southampton,20-29,0,,7.8958
+second,"lamb, mr. john joseph",male,,0,0,240261,10.7083,,queenstown,10-19,0,,10.7083
+third,"khalil, mr. betros",male,,1,0,2660,14.4542,,cherbourg,30-39,1,,14.4542
+third,"barry, miss. julia",female,27.0,0,0,330844,7.8792,,queenstown,10-19,0,,7.8792
+third,"badman, miss. emily louisa",female,18.0,0,0,a/4 31416,8.05,,southampton,,0,,8.05
+third,"o'donoghue, ms. bridget",female,,0,0,364856,7.75,,queenstown,20-29,0,,7.75
+second,"wells, master. ralph lester",male,2.0,1,1,29103,23.0,,southampton,20-29,2,,23.0
 third,"dyker, mrs. adolf fredrik (anna elisabeth judith andersson)",female,22.0,1,0,347072,13.9,,southampton,20-29,1,,13.9
-third,"pedersen, mr. olaf",male,,0,0,345498,7.775,,southampton,,0,,7.775
-first,"davidson, mrs. thornton (orian hays)",female,27.0,1,2,f.c. 12750,52.0,b71,southampton,20-29,3,b,52.0
-third,"guest, mr. robert",male,,0,0,376563,8.05,,southampton,,0,,8.05
-first,"birnbaum, mr. jakob",male,25.0,0,0,13905,26.0,,cherbourg,20-29,0,,26.0
-third,"tenglin, mr. gunnar isidor",male,25.0,0,0,350033,7.7958,,southampton,20-29,0,,7.7958
+third,"pedersen, mr. olaf",male,,0,0,345498,7.775,,southampton,20-29,0,,7.775
+first,"davidson, mrs. thornton (orian hays)",female,27.0,1,2,f.c. 12750,52.0,b71,southampton,40-49,3,b,52.0
+third,"guest, mr. robert",male,,0,0,376563,8.05,,southampton,20-29,0,,8.05
+first,"birnbaum, mr. jakob",male,25.0,0,0,13905,26.0,,cherbourg,50-59,0,,26.0
+third,"tenglin, mr. gunnar isidor",male,25.0,0,0,350033,7.7958,,southampton,,0,,7.7958
 first,"cavendish, mrs. tyrell william (julia florence siegel)",female,76.0,1,0,19877,78.85,c46,southampton,70-79,1,c,78.85
 third,"makinen, mr. kalle edvard",male,29.0,0,0,ston/o 2. 3101268,7.925,,southampton,20-29,0,,7.925
-third,"braf, miss. elin ester maria",female,20.0,0,0,347471,7.8542,,southampton,20-29,0,,7.8542
+third,"braf, miss. elin ester maria",female,20.0,0,0,347471,7.8542,,southampton,30-39,0,,7.8542
 third,"nancarrow, mr. william henry",male,33.0,0,0,a./5. 3338,8.05,,southampton,30-39,0,,8.05
-first,"stengel, mrs. charles emil henry (annie may morris)",female,43.0,1,0,11778,55.4417,c116,cherbourg,40-49,1,c,55.4417
-second,"weisz, mr. leopold",male,27.0,1,0,228414,26.0,,southampton,20-29,1,,26.0
-third,"foley, mr. william",male,,0,0,365235,7.75,,queenstown,,0,,7.75
-third,"johansson palmquist, mr. oskar leander",male,26.0,0,0,347070,7.775,,southampton,20-29,0,,7.775
-third,"thomas, mrs. alexander (thamine thelma"")""",female,16.0,1,1,2625,8.5167,,cherbourg,10-19,2,,8.5167
+first,"stengel, mrs. charles emil henry (annie may morris)",female,43.0,1,0,11778,55.4417,c116,cherbourg,20-29,1,c,55.4417
+second,"weisz, mr. leopold",male,27.0,1,0,228414,26.0,,southampton,,1,,26.0
+third,"foley, mr. william",male,,0,0,365235,7.75,,queenstown,20-29,0,,7.75
+third,"johansson palmquist, mr. oskar leander",male,26.0,0,0,347070,7.775,,southampton,30-39,0,,7.775
+third,"thomas, mrs. alexander (thamine thelma"")""",female,16.0,1,1,2625,8.5167,,cherbourg,30-39,2,,8.5167
 third,"holthen, mr. johan martin",male,28.0,0,0,c 4001,22.525,,southampton,20-29,0,,22.525
 third,"buckley, mr. daniel",male,21.0,0,0,330920,7.8208,,queenstown,20-29,0,,7.8208
 third,"ryan, mr. edward",male,,0,0,383162,7.75,,queenstown,,0,,7.75
-third,"willer, mr. aaron (abi weller"")""",male,,0,0,3410,8.7125,,southampton,,0,,8.7125
-second,"swane, mr. george",male,18.5,0,0,248734,13.0,f,southampton,10-19,0,f,13.0
+third,"willer, mr. aaron (abi weller"")""",male,,0,0,3410,8.7125,,southampton,30-39,0,,8.7125
+second,"swane, mr. george",male,18.5,0,0,248734,13.0,f,southampton,,0,f,13.0
 second,"stanton, mr. samuel ward",male,41.0,0,0,237734,15.0458,,cherbourg,40-49,0,,15.0458
-third,"shine, miss. ellen natalia",female,,0,0,330968,7.7792,,queenstown,,0,,7.7792
-first,"evans, miss. edith corse",female,36.0,0,0,pc 17531,31.6792,a29,cherbourg,30-39,0,a,31.6792
-third,"buckley, miss. katherine",female,18.5,0,0,329944,7.2833,,queenstown,10-19,0,,7.2833
-first,"straus, mrs. isidor (rosalie ida blun)",female,63.0,1,0,pc 17483,221.7792,c55 c57,southampton,60-69,1,c,221.7792
-third,"chronopoulos, mr. demetrios",male,18.0,1,0,2680,14.4542,,cherbourg,10-19,1,,14.4542
-third,"thomas, mr. john",male,,0,0,2681,6.4375,,cherbourg,,0,,6.4375
-third,"sandstrom, miss. beatrice irene",female,1.0,1,1,pp 9549,16.7,g6,southampton,0-9,2,g,16.7
-first,"beattie, mr. thomson",male,36.0,0,0,13050,75.2417,c6,cherbourg,30-39,0,c,75.2417
-second,"chapman, mrs. john henry (sara elizabeth lawry)",female,29.0,1,0,sc/ah 29037,26.0,,southampton,20-29,1,,26.0
-second,"watt, miss. bertha j",female,12.0,0,0,c.a. 33595,15.75,,southampton,10-19,0,,15.75
+third,"shine, miss. ellen natalia",female,,0,0,330968,7.7792,,queenstown,10-19,0,,7.7792
+first,"evans, miss. edith corse",female,36.0,0,0,pc 17531,31.6792,a29,cherbourg,20-29,0,a,31.6792
+third,"buckley, miss. katherine",female,18.5,0,0,329944,7.2833,,queenstown,20-29,0,,7.2833
+first,"straus, mrs. isidor (rosalie ida blun)",female,63.0,1,0,pc 17483,221.7792,c55 c57,southampton,10-19,1,c,221.7792
+third,"chronopoulos, mr. demetrios",male,18.0,1,0,2680,14.4542,,cherbourg,20-29,1,,14.4542
+third,"thomas, mr. john",male,,0,0,2681,6.4375,,cherbourg,70-79,0,,6.4375
+third,"sandstrom, miss. beatrice irene",female,1.0,1,1,pp 9549,16.7,g6,southampton,20-29,2,g,16.7
+first,"beattie, mr. thomson",male,36.0,0,0,13050,75.2417,c6,cherbourg,20-29,0,c,75.2417
+second,"chapman, mrs. john henry (sara elizabeth lawry)",female,29.0,1,0,sc/ah 29037,26.0,,southampton,0-9,1,,26.0
+second,"watt, miss. bertha j",female,12.0,0,0,c.a. 33595,15.75,,southampton,20-29,0,,15.75
 third,"kiernan, mr. john",male,,1,0,367227,7.75,,queenstown,,1,,7.75
 first,"schabert, mrs. paul (emma mock)",female,35.0,1,0,13236,57.75,c28,cherbourg,30-39,1,c,57.75
-third,"carver, mr. alfred john",male,28.0,0,0,392095,7.25,,southampton,20-29,0,,7.25
-third,"kennedy, mr. john",male,,0,0,368783,7.75,,queenstown,,0,,7.75
+third,"carver, mr. alfred john",male,28.0,0,0,392095,7.25,,southampton,30-39,0,,7.25
+third,"kennedy, mr. john",male,,0,0,368783,7.75,,queenstown,50-59,0,,7.75
 third,"cribb, miss. laura alice",female,17.0,0,1,371362,16.1,,southampton,10-19,1,,16.1
-third,"brobeck, mr. karl rudolf",male,22.0,0,0,350045,7.7958,,southampton,20-29,0,,7.7958
-third,"mccoy, miss. alicia",female,,2,0,367226,23.25,,queenstown,,2,,23.25
-second,"bowenur, mr. solomon",male,42.0,0,0,211535,13.0,,southampton,40-49,0,,13.0
-third,"petersen, mr. marius",male,24.0,0,0,342441,8.05,,southampton,20-29,0,,8.05
+third,"brobeck, mr. karl rudolf",male,22.0,0,0,350045,7.7958,,southampton,,0,,7.7958
+third,"mccoy, miss. alicia",female,,2,0,367226,23.25,,queenstown,20-29,2,,23.25
+second,"bowenur, mr. solomon",male,42.0,0,0,211535,13.0,,southampton,,0,,13.0
+third,"petersen, mr. marius",male,24.0,0,0,342441,8.05,,southampton,40-49,0,,8.05
 third,"spinner, mr. henry john",male,32.0,0,0,ston/oq. 369943,8.05,,southampton,30-39,0,,8.05
-first,"gracie, col. archibald iv",male,53.0,0,0,113780,28.5,c51,cherbourg,50-59,0,c,28.5
-third,"lefebre, mrs. frank (frances)",female,,0,4,4133,25.4667,,southampton,,4,,25.4667
-third,"thomas, mr. charles p",male,,1,0,2621,6.4375,,cherbourg,,1,,6.4375
-third,"dintcheff, mr. valtcho",male,43.0,0,0,349226,7.8958,,southampton,40-49,0,,7.8958
+first,"gracie, col. archibald iv",male,53.0,0,0,113780,28.5,c51,cherbourg,20-29,0,c,28.5
+third,"lefebre, mrs. frank (frances)",female,,0,4,4133,25.4667,,southampton,40-49,4,,25.4667
+third,"thomas, mr. charles p",male,,1,0,2621,6.4375,,cherbourg,20-29,1,,6.4375
+third,"dintcheff, mr. valtcho",male,43.0,0,0,349226,7.8958,,southampton,20-29,0,,7.8958
 third,"carlsson, mr. carl robert",male,24.0,0,0,350409,7.8542,,southampton,20-29,0,,7.8542
-third,"zakarian, mr. mapriededer",male,26.5,0,0,2656,7.225,,cherbourg,20-29,0,,7.225
-second,"schmidt, mr. august",male,26.0,0,0,248659,13.0,,southampton,20-29,0,,13.0
-third,"drapkin, miss. jennie",female,23.0,0,0,soton/oq 392083,8.05,,southampton,20-29,0,,8.05
-third,"goodwin, mr. charles frederick",male,40.0,1,6,ca 2144,46.9,,southampton,40-49,7,,46.9
-third,"goodwin, miss. jessie allis",female,10.0,5,2,ca 2144,46.9,,southampton,10-19,7,,46.9
-first,"daniels, miss. sarah",female,33.0,0,0,113781,151.55,,southampton,30-39,0,,151.55
-first,"ryerson, mr. arthur larned",male,61.0,1,3,pc 17608,262.375,b57 b59 b63 b66,cherbourg,60-69,4,b,262.375
-second,"beauchamp, mr. henry james",male,28.0,0,0,244358,26.0,,southampton,20-29,0,,26.0
-first,"lindeberg-lind, mr. erik gustaf (mr edward lingrey"")""",male,42.0,0,0,17475,26.55,,southampton,40-49,0,,26.55
-third,"vander planke, mr. julius",male,31.0,3,0,345763,18.0,,southampton,30-39,3,,18.0
-first,"hilliard, mr. herbert henry",male,,0,0,17463,51.8625,e46,southampton,,0,e,51.8625
-third,"davies, mr. evan",male,22.0,0,0,sc/a4 23568,8.05,,southampton,20-29,0,,8.05
-first,"crafton, mr. john bertram",male,,0,0,113791,26.55,,southampton,,0,,26.55
-second,"lahtinen, rev. william",male,30.0,1,1,250651,26.0,,southampton,30-39,2,,26.0
-first,"earnshaw, mrs. boulton (olive potter)",female,23.0,0,1,11767,83.1583,c54,cherbourg,20-29,1,c,83.1583
-third,"matinoff, mr. nicola",male,,0,0,349255,7.8958,,cherbourg,,0,,7.8958
-third,"storey, mr. thomas",male,60.5,0,0,3701,,,southampton,60-69,0,,262.375
-third,"klasen, mrs. (hulda kristina eugenia lofqvist)",female,36.0,0,2,350405,12.1833,,southampton,30-39,2,,12.1833
-third,"asplund, master. filip oscar",male,13.0,4,2,347077,31.3875,,southampton,10-19,6,,31.3875
-third,"duquemin, mr. joseph",male,24.0,0,0,s.o./p.p. 752,7.55,,southampton,20-29,0,,7.55
-first,"bird, miss. ellen",female,29.0,0,0,pc 17483,221.7792,c97,southampton,20-29,0,c,221.7792
-third,"lundin, miss. olga elida",female,23.0,0,0,347469,7.8542,,southampton,20-29,0,,7.8542
-first,"borebank, mr. john james",male,42.0,0,0,110489,26.55,d22,southampton,40-49,0,d,26.55
-third,"peacock, mrs. benjamin (edith nile)",female,26.0,0,2,soton/o.q. 3101315,13.775,,southampton,20-29,2,,13.775
-third,"smyth, miss. julia",female,,0,0,335432,7.7333,,queenstown,,0,,7.7333
-third,"touma, master. georges youssef",male,7.0,1,1,2650,15.2458,,cherbourg,0-9,2,,15.2458
+third,"zakarian, mr. mapriededer",male,26.5,0,0,2656,7.225,,cherbourg,10-19,0,,7.225
+second,"schmidt, mr. august",male,26.0,0,0,248659,13.0,,southampton,30-39,0,,13.0
+third,"drapkin, miss. jennie",female,23.0,0,0,soton/oq 392083,8.05,,southampton,10-19,0,,8.05
+third,"goodwin, mr. charles frederick",male,40.0,1,6,ca 2144,46.9,,southampton,20-29,7,,46.9
+third,"goodwin, miss. jessie allis",female,10.0,5,2,ca 2144,46.9,,southampton,,7,,46.9
+first,"daniels, miss. sarah",female,33.0,0,0,113781,151.55,,southampton,20-29,0,,151.55
+first,"ryerson, mr. arthur larned",male,61.0,1,3,pc 17608,262.375,b57 b59 b63 b66,cherbourg,20-29,4,b,262.375
+second,"beauchamp, mr. henry james",male,28.0,0,0,244358,26.0,,southampton,10-19,0,,26.0
+first,"lindeberg-lind, mr. erik gustaf (mr edward lingrey"")""",male,42.0,0,0,17475,26.55,,southampton,10-19,0,,26.55
+third,"vander planke, mr. julius",male,31.0,3,0,345763,18.0,,southampton,10-19,3,,18.0
+first,"hilliard, mr. herbert henry",male,,0,0,17463,51.8625,e46,southampton,20-29,0,e,51.8625
+third,"davies, mr. evan",male,22.0,0,0,sc/a4 23568,8.05,,southampton,0-9,0,,8.05
+first,"crafton, mr. john bertram",male,,0,0,113791,26.55,,southampton,30-39,0,,26.55
+second,"lahtinen, rev. william",male,30.0,1,1,250651,26.0,,southampton,40-49,2,,26.0
+first,"earnshaw, mrs. boulton (olive potter)",female,23.0,0,1,11767,83.1583,c54,cherbourg,50-59,1,c,83.1583
+third,"matinoff, mr. nicola",male,,0,0,349255,7.8958,,cherbourg,20-29,0,,7.8958
+third,"storey, mr. thomas",male,60.5,0,0,3701,,,southampton,50-59,0,,262.375
+third,"klasen, mrs. (hulda kristina eugenia lofqvist)",female,36.0,0,2,350405,12.1833,,southampton,40-49,2,,12.1833
+third,"asplund, master. filip oscar",male,13.0,4,2,347077,31.3875,,southampton,,6,,31.3875
+third,"duquemin, mr. joseph",male,24.0,0,0,s.o./p.p. 752,7.55,,southampton,50-59,0,,7.55
+first,"bird, miss. ellen",female,29.0,0,0,pc 17483,221.7792,c97,southampton,10-19,0,c,221.7792
+third,"lundin, miss. olga elida",female,23.0,0,0,347469,7.8542,,southampton,30-39,0,,7.8542
+first,"borebank, mr. john james",male,42.0,0,0,110489,26.55,d22,southampton,,0,d,26.55
+third,"peacock, mrs. benjamin (edith nile)",female,26.0,0,2,soton/o.q. 3101315,13.775,,southampton,,2,,13.775
+third,"smyth, miss. julia",female,,0,0,335432,7.7333,,queenstown,40-49,0,,7.7333
+third,"touma, master. georges youssef",male,7.0,1,1,2650,15.2458,,cherbourg,40-49,2,,15.2458
 second,"wright, miss. marion",female,26.0,0,0,220844,13.5,,southampton,20-29,0,,13.5
-third,"pearce, mr. ernest",male,,0,0,343271,7.0,,southampton,,0,,7.0
-second,"peruschitz, rev. joseph maria",male,41.0,0,0,237393,13.0,,southampton,40-49,0,,13.0
-third,"kink-heilmann, mrs. anton (luise heilmann)",female,26.0,1,1,315153,22.025,,southampton,20-29,2,,22.025
-first,"brandeis, mr. emil",male,48.0,0,0,pc 17591,50.4958,b10,cherbourg,40-49,0,b,50.4958
-third,"ford, mr. edward watson",male,18.0,2,2,w./c. 6608,34.375,,southampton,10-19,4,,34.375
+third,"pearce, mr. ernest",male,,0,0,343271,7.0,,southampton,10-19,0,,7.0
+second,"peruschitz, rev. joseph maria",male,41.0,0,0,237393,13.0,,southampton,0-9,0,,13.0
+third,"kink-heilmann, mrs. anton (luise heilmann)",female,26.0,1,1,315153,22.025,,southampton,0-9,2,,22.025
+first,"brandeis, mr. emil",male,48.0,0,0,pc 17591,50.4958,b10,cherbourg,,0,b,50.4958
+third,"ford, mr. edward watson",male,18.0,2,2,w./c. 6608,34.375,,southampton,40-49,4,,34.375
 first,"cassebeer, mrs. henry arthur jr (eleanor genevieve fosdick)",female,,0,0,17770,27.7208,,cherbourg,,0,,27.7208
 third,"hellstrom, miss. hilda maria",female,22.0,0,0,7548,8.9625,,southampton,20-29,0,,8.9625
-third,"lithman, mr. simon",male,,0,0,s.o./p.p. 251,7.55,,southampton,,0,,7.55
-third,"zakarian, mr. ortin",male,27.0,0,0,2670,7.225,,cherbourg,20-29,0,,7.225
-third,"dyker, mr. adolf fredrik",male,23.0,1,0,347072,13.9,,southampton,20-29,1,,13.9
-third,"torfa, mr. assad",male,,0,0,2673,7.2292,,cherbourg,,0,,7.2292
-third,"asplund, mr. carl oscar vilhelm gustafsson",male,40.0,1,5,347077,31.3875,,southampton,40-49,6,,31.3875
+third,"lithman, mr. simon",male,,0,0,s.o./p.p. 251,7.55,,southampton,60-69,0,,7.55
+third,"zakarian, mr. ortin",male,27.0,0,0,2670,7.225,,cherbourg,0-9,0,,7.225
+third,"dyker, mr. adolf fredrik",male,23.0,1,0,347072,13.9,,southampton,0-9,1,,13.9
+third,"torfa, mr. assad",male,,0,0,2673,7.2292,,cherbourg,20-29,0,,7.2292
+third,"asplund, mr. carl oscar vilhelm gustafsson",male,40.0,1,5,347077,31.3875,,southampton,50-59,6,,31.3875
 second,"brown, miss. edith eileen",female,15.0,0,2,29750,39.0,,southampton,10-19,2,,39.0
-second,"sincock, miss. maude",female,20.0,0,0,c.a. 33112,36.75,,southampton,20-29,0,,36.75
+second,"sincock, miss. maude",female,20.0,0,0,c.a. 33112,36.75,,southampton,,0,,36.75
 first,"stengel, mr. charles emil henry",male,54.0,1,0,11778,55.4417,c116,cherbourg,50-59,1,c,55.4417
 second,"becker, mrs. allen oliver (nellie e baumgardner)",female,36.0,0,3,230136,39.0,f4,southampton,30-39,3,f,39.0
-first,"compton, mrs. alexander taylor (mary eliza ingersoll)",female,64.0,0,2,pc 17756,83.1583,e45,cherbourg,60-69,2,e,83.1583
-second,"mccrie, mr. james matthew",male,30.0,0,0,233478,13.0,,southampton,30-39,0,,13.0
-first,"compton, mr. alexander taylor jr",male,37.0,1,1,pc 17756,83.1583,e52,cherbourg,30-39,2,e,83.1583
-first,"marvin, mrs. daniel warner (mary graham carmichael farquarson)",female,18.0,1,0,113773,53.1,d30,southampton,10-19,1,d,53.1
-third,"lane, mr. patrick",male,,0,0,7935,7.75,,queenstown,,0,,7.75
-first,"douglas, mrs. frederick charles (mary helene baxter)",female,27.0,1,1,pc 17558,247.5208,b58 b60,cherbourg,20-29,2,b,247.5208
-second,"maybery, mr. frank hubert",male,40.0,0,0,239059,16.0,,southampton,40-49,0,,16.0
-second,"phillips, miss. alice frances louisa",female,21.0,0,1,s.o./p.p. 2,21.0,,southampton,20-29,1,,21.0
-third,"davies, mr. joseph",male,17.0,2,0,a/4 48873,8.05,,southampton,10-19,2,,8.05
-third,"sage, miss. ada",female,,8,2,ca. 2343,69.55,,southampton,,10,,69.55
-second,"veal, mr. james",male,40.0,0,0,28221,13.0,,southampton,40-49,0,,13.0
+first,"compton, mrs. alexander taylor (mary eliza ingersoll)",female,64.0,0,2,pc 17756,83.1583,e45,cherbourg,30-39,2,e,83.1583
+second,"mccrie, mr. james matthew",male,30.0,0,0,233478,13.0,,southampton,,0,,13.0
+first,"compton, mr. alexander taylor jr",male,37.0,1,1,pc 17756,83.1583,e52,cherbourg,,2,e,83.1583
+first,"marvin, mrs. daniel warner (mary graham carmichael farquarson)",female,18.0,1,0,113773,53.1,d30,southampton,0-9,1,d,53.1
+third,"lane, mr. patrick",male,,0,0,7935,7.75,,queenstown,0-9,0,,7.75
+first,"douglas, mrs. frederick charles (mary helene baxter)",female,27.0,1,1,pc 17558,247.5208,b58 b60,cherbourg,0-9,2,b,247.5208
+second,"maybery, mr. frank hubert",male,40.0,0,0,239059,16.0,,southampton,,0,,16.0
+second,"phillips, miss. alice frances louisa",female,21.0,0,1,s.o./p.p. 2,21.0,,southampton,,1,,21.0
+third,"davies, mr. joseph",male,17.0,2,0,a/4 48873,8.05,,southampton,40-49,2,,8.05
+third,"sage, miss. ada",female,,8,2,ca. 2343,69.55,,southampton,40-49,10,,69.55
+second,"veal, mr. james",male,40.0,0,0,28221,13.0,,southampton,30-39,0,,13.0
 second,"angle, mr. william a",male,34.0,1,0,226875,26.0,,southampton,30-39,1,,26.0
-first,"salomon, mr. abraham l",male,,0,0,111163,26.0,,southampton,,0,,26.0
+first,"salomon, mr. abraham l",male,,0,0,111163,26.0,,southampton,10-19,0,,26.0
 third,"van billiard, master. walter john",male,11.5,1,1,a/5. 851,14.5,,southampton,10-19,2,,14.5
-second,"lingane, mr. john",male,61.0,0,0,235509,12.35,,queenstown,60-69,0,,12.35
-second,"drew, master. marshall brines",male,8.0,0,2,28220,32.5,,southampton,0-9,2,,32.5
-third,"karlsson, mr. julius konrad eugen",male,33.0,0,0,347465,7.8542,,southampton,30-39,0,,7.8542
-first,"spedden, master. robert douglas",male,6.0,0,2,16966,134.5,e34,cherbourg,0-9,2,e,134.5
-third,"nilsson, miss. berta olivia",female,18.0,0,0,347066,7.775,,southampton,10-19,0,,7.775
-second,"baimbrigge, mr. charles robert",male,23.0,0,0,c.a. 31030,10.5,,southampton,20-29,0,,10.5
-third,"rasmussen, mrs. (lena jacobsen solvang)",female,,0,0,65305,8.1125,,southampton,,0,,8.1125
-third,"murphy, miss. nora",female,,0,0,36568,15.5,,queenstown,,0,,15.5
-third,"danbom, master. gilbert sigvard emanuel",male,0.33,0,2,347080,14.4,,southampton,0-9,2,,14.4
-first,"astor, col. john jacob",male,47.0,1,0,pc 17757,227.525,c62 c64,cherbourg,40-49,1,c,227.525
-second,"quick, miss. winifred vera",female,8.0,1,1,26360,26.0,,southampton,0-9,2,,26.0
-second,"andrew, mr. frank thomas",male,25.0,0,0,c.a. 34050,10.5,,southampton,20-29,0,,10.5
-first,"omont, mr. alfred fernand",male,,0,0,f.c. 12998,25.7417,,cherbourg,,0,,25.7417
+second,"lingane, mr. john",male,61.0,0,0,235509,12.35,,queenstown,0-9,0,,12.35
+second,"drew, master. marshall brines",male,8.0,0,2,28220,32.5,,southampton,40-49,2,,32.5
+third,"karlsson, mr. julius konrad eugen",male,33.0,0,0,347465,7.8542,,southampton,50-59,0,,7.8542
+first,"spedden, master. robert douglas",male,6.0,0,2,16966,134.5,e34,cherbourg,,2,e,134.5
+third,"nilsson, miss. berta olivia",female,18.0,0,0,347066,7.775,,southampton,40-49,0,,7.775
+second,"baimbrigge, mr. charles robert",male,23.0,0,0,c.a. 31030,10.5,,southampton,,0,,10.5
+third,"rasmussen, mrs. (lena jacobsen solvang)",female,,0,0,65305,8.1125,,southampton,20-29,0,,8.1125
+third,"murphy, miss. nora",female,,0,0,36568,15.5,,queenstown,20-29,0,,15.5
+third,"danbom, master. gilbert sigvard emanuel",male,0.33,0,2,347080,14.4,,southampton,,2,,14.4
+first,"astor, col. john jacob",male,47.0,1,0,pc 17757,227.525,c62 c64,cherbourg,30-39,1,c,227.525
+second,"quick, miss. winifred vera",female,8.0,1,1,26360,26.0,,southampton,40-49,2,,26.0
+second,"andrew, mr. frank thomas",male,25.0,0,0,c.a. 34050,10.5,,southampton,10-19,0,,10.5
+first,"omont, mr. alfred fernand",male,,0,0,f.c. 12998,25.7417,,cherbourg,0-9,0,,25.7417
 third,"mcgowan, miss. katherine",female,35.0,0,0,9232,7.75,,queenstown,30-39,0,,7.75
 second,"collett, mr. sidney c stuart",male,24.0,0,0,28034,10.5,,southampton,20-29,0,,10.5
-first,"rosenbaum, miss. edith louise",female,33.0,0,0,pc 17613,27.7208,a11,cherbourg,30-39,0,a,27.7208
-third,"delalic, mr. redjo",male,25.0,0,0,349250,7.8958,,southampton,20-29,0,,7.8958
-third,"andersen, mr. albert karvin",male,32.0,0,0,c 4001,22.525,,southampton,30-39,0,,22.525
-third,"finoli, mr. luigi",male,,0,0,soton/o.q. 3101308,7.05,,southampton,,0,,7.05
-second,"deacon, mr. percy william",male,17.0,0,0,s.o.c. 14879,73.5,,southampton,10-19,0,,73.5
-second,"howard, mrs. benjamin (ellen truelove arman)",female,60.0,1,0,24065,26.0,,southampton,60-69,1,,26.0
-third,"andersson, miss. ida augusta margareta",female,38.0,4,2,347091,7.775,,southampton,30-39,6,,7.775
-first,"head, mr. christopher",male,42.0,0,0,113038,42.5,b11,southampton,40-49,0,b,42.5
-third,"mahon, miss. bridget delia",female,,0,0,330924,7.8792,,queenstown,,0,,7.8792
-first,"wick, mr. george dennick",male,57.0,1,1,36928,164.8667,,southampton,50-59,2,,164.8667
-first,"widener, mrs. george dunton (eleanor elkins)",female,50.0,1,1,113503,211.5,c80,cherbourg,50-59,2,c,211.5
-third,"thomson, mr. alexander morrison",male,,0,0,32302,8.05,,southampton,,0,,8.05
-second,"duran y more, miss. florentina",female,30.0,1,0,sc/paris 2148,13.8583,,cherbourg,30-39,1,,13.8583
+first,"rosenbaum, miss. edith louise",female,33.0,0,0,pc 17613,27.7208,a11,cherbourg,10-19,0,a,27.7208
+third,"delalic, mr. redjo",male,25.0,0,0,349250,7.8958,,southampton,40-49,0,,7.8958
+third,"andersen, mr. albert karvin",male,32.0,0,0,c 4001,22.525,,southampton,20-29,0,,22.525
+third,"finoli, mr. luigi",male,,0,0,soton/o.q. 3101308,7.05,,southampton,30-39,0,,7.05
+second,"deacon, mr. percy william",male,17.0,0,0,s.o.c. 14879,73.5,,southampton,20-29,0,,73.5
+second,"howard, mrs. benjamin (ellen truelove arman)",female,60.0,1,0,24065,26.0,,southampton,30-39,1,,26.0
+third,"andersson, miss. ida augusta margareta",female,38.0,4,2,347091,7.775,,southampton,,6,,7.775
+first,"head, mr. christopher",male,42.0,0,0,113038,42.5,b11,southampton,30-39,0,b,42.5
+third,"mahon, miss. bridget delia",female,,0,0,330924,7.8792,,queenstown,20-29,0,,7.8792
+first,"wick, mr. george dennick",male,57.0,1,1,36928,164.8667,,southampton,40-49,2,,164.8667
+first,"widener, mrs. george dunton (eleanor elkins)",female,50.0,1,1,113503,211.5,c80,cherbourg,30-39,2,c,211.5
+third,"thomson, mr. alexander morrison",male,,0,0,32302,8.05,,southampton,30-39,0,,8.05
+second,"duran y more, miss. florentina",female,30.0,1,0,sc/paris 2148,13.8583,,cherbourg,10-19,1,,13.8583
 third,"reynolds, mr. harold j",male,21.0,0,0,342684,8.05,,southampton,20-29,0,,8.05
-second,"cook, mrs. (selena rogers)",female,22.0,0,0,w./c. 14266,10.5,f33,southampton,20-29,0,f,10.5
-third,"karlsson, mr. einar gervasius",male,21.0,0,0,350053,7.7958,,southampton,20-29,0,,7.7958
-first,"candee, mrs. edward (helen churchill hungerford)",female,53.0,0,0,pc 17606,27.4458,,cherbourg,50-59,0,,27.4458
-third,"moubarek, mrs. george (omine amenia"" alexander)""",female,,0,2,2661,15.2458,,cherbourg,,2,,15.2458
-third,"asplund, mr. johan charles",male,23.0,0,0,350054,7.7958,,southampton,20-29,0,,7.7958
-third,"mcneill, miss. bridget",female,,0,0,370368,7.75,,queenstown,,0,,7.75
-third,"everett, mr. thomas james",male,40.5,0,0,c.a. 6212,15.1,,southampton,40-49,0,,15.1
-second,"hocking, mr. samuel james metcalfe",male,36.0,0,0,242963,13.0,,southampton,30-39,0,,13.0
-second,"sweet, mr. george frederick",male,14.0,0,0,220845,65.0,,southampton,10-19,0,,65.0
+second,"cook, mrs. (selena rogers)",female,22.0,0,0,w./c. 14266,10.5,f33,southampton,50-59,0,f,10.5
+third,"karlsson, mr. einar gervasius",male,21.0,0,0,350053,7.7958,,southampton,,0,,7.7958
+first,"candee, mrs. edward (helen churchill hungerford)",female,53.0,0,0,pc 17606,27.4458,,cherbourg,30-39,0,,27.4458
+third,"moubarek, mrs. george (omine amenia"" alexander)""",female,,0,2,2661,15.2458,,cherbourg,20-29,2,,15.2458
+third,"asplund, mr. johan charles",male,23.0,0,0,350054,7.7958,,southampton,10-19,0,,7.7958
+third,"mcneill, miss. bridget",female,,0,0,370368,7.75,,queenstown,20-29,0,,7.75
+third,"everett, mr. thomas james",male,40.5,0,0,c.a. 6212,15.1,,southampton,10-19,0,,15.1
+second,"hocking, mr. samuel james metcalfe",male,36.0,0,0,242963,13.0,,southampton,,0,,13.0
+second,"sweet, mr. george frederick",male,14.0,0,0,220845,65.0,,southampton,30-39,0,,65.0
 first,"willard, miss. constance",female,21.0,0,0,113795,26.55,,southampton,20-29,0,,26.55
-third,"wiklund, mr. karl johan",male,21.0,1,0,3101266,6.4958,,southampton,20-29,1,,6.4958
-third,"linehan, mr. michael",male,,0,0,330971,7.8792,,queenstown,,0,,7.8792
-first,"cumings, mr. john bradley",male,39.0,1,0,pc 17599,71.2833,c85,cherbourg,30-39,1,c,71.2833
-third,"vendel, mr. olof edvin",male,20.0,0,0,350416,7.8542,,southampton,20-29,0,,7.8542
-first,"warren, mr. frank manley",male,64.0,1,0,110813,75.25,d37,cherbourg,60-69,1,d,75.25
-third,"baccos, mr. raffull",male,20.0,0,0,2679,7.225,,cherbourg,20-29,0,,7.225
+third,"wiklund, mr. karl johan",male,21.0,1,0,3101266,6.4958,,southampton,50-59,1,,6.4958
+third,"linehan, mr. michael",male,,0,0,330971,7.8792,,queenstown,0-9,0,,7.8792
+first,"cumings, mr. john bradley",male,39.0,1,0,pc 17599,71.2833,c85,cherbourg,20-29,1,c,71.2833
+third,"vendel, mr. olof edvin",male,20.0,0,0,350416,7.8542,,southampton,,0,,7.8542
+first,"warren, mr. frank manley",male,64.0,1,0,110813,75.25,d37,cherbourg,40-49,1,d,75.25
+third,"baccos, mr. raffull",male,20.0,0,0,2679,7.225,,cherbourg,0-9,0,,7.225
 second,"hiltunen, miss. marta",female,18.0,1,1,250650,13.0,,southampton,10-19,2,,13.0
-first,"douglas, mrs. walter donald (mahala dutton)",female,48.0,1,0,pc 17761,106.425,c86,cherbourg,40-49,1,c,106.425
-first,"lindstrom, mrs. carl johan (sigrid posse)",female,55.0,0,0,112377,27.7208,,cherbourg,50-59,0,,27.7208
-second,"christy, mrs. (alice frances)",female,45.0,0,2,237789,30.0,,southampton,40-49,2,,30.0
-first,"spedden, mr. frederic oakley",male,45.0,1,1,16966,134.5,e34,cherbourg,40-49,2,e,134.5
-third,"hyman, mr. abraham",male,,0,0,3470,7.8875,,southampton,,0,,7.8875
-third,"johnston, master. william arthur willie""""",male,,1,2,w./c. 6607,23.45,,southampton,,3,,23.45
+first,"douglas, mrs. walter donald (mahala dutton)",female,48.0,1,0,pc 17761,106.425,c86,cherbourg,30-39,1,c,106.425
+first,"lindstrom, mrs. carl johan (sigrid posse)",female,55.0,0,0,112377,27.7208,,cherbourg,,0,,27.7208
+second,"christy, mrs. (alice frances)",female,45.0,0,2,237789,30.0,,southampton,,2,,30.0
+first,"spedden, mr. frederic oakley",male,45.0,1,1,16966,134.5,e34,cherbourg,20-29,2,e,134.5
+third,"hyman, mr. abraham",male,,0,0,3470,7.8875,,southampton,20-29,0,,7.8875
+third,"johnston, master. william arthur willie""""",male,,1,2,w./c. 6607,23.45,,southampton,30-39,3,,23.45
 first,"kenyon, mr. frederick r",male,41.0,1,0,17464,51.8625,d21,southampton,40-49,1,d,51.8625
 second,"karnes, mrs. j frank (claire bennett)",female,22.0,0,0,f.c.c. 13534,21.0,,southampton,20-29,0,,21.0
-second,"drew, mr. james vivian",male,42.0,1,1,28220,32.5,,southampton,40-49,2,,32.5
-second,"hold, mrs. stephen (annie margaret hill)",female,29.0,1,0,26707,26.0,,southampton,20-29,1,,26.0
-third,"khalil, mrs. betros (zahie maria"" elias)""",female,,1,0,2660,14.4542,,cherbourg,,1,,14.4542
-second,"west, miss. barbara j",female,0.92,1,2,c.a. 34651,27.75,,southampton,0-9,3,,27.75
+second,"drew, mr. james vivian",male,42.0,1,1,28220,32.5,,southampton,20-29,2,,32.5
+second,"hold, mrs. stephen (annie margaret hill)",female,29.0,1,0,26707,26.0,,southampton,30-39,1,,26.0
+third,"khalil, mrs. betros (zahie maria"" elias)""",female,,1,0,2660,14.4542,,cherbourg,50-59,1,,14.4542
+second,"west, miss. barbara j",female,0.92,1,2,c.a. 34651,27.75,,southampton,,3,,27.75
 third,"abrahamsson, mr. abraham august johannes",male,20.0,0,0,soton/o2 3101284,7.925,,southampton,20-29,0,,7.925
-first,"clark, mr. walter miller",male,27.0,1,0,13508,136.7792,c89,cherbourg,20-29,1,c,136.7792
-third,"salander, mr. karl johan",male,24.0,0,0,7266,9.325,,southampton,20-29,0,,9.325
-third,"wenzel, mr. linhart",male,32.5,0,0,345775,9.5,,southampton,30-39,0,,9.5
-third,"mackay, mr. george william",male,,0,0,c.a. 42795,7.55,,southampton,,0,,7.55
+first,"clark, mr. walter miller",male,27.0,1,0,13508,136.7792,c89,cherbourg,60-69,1,c,136.7792
+third,"salander, mr. karl johan",male,24.0,0,0,7266,9.325,,southampton,30-39,0,,9.325
+third,"wenzel, mr. linhart",male,32.5,0,0,345775,9.5,,southampton,40-49,0,,9.5
+third,"mackay, mr. george william",male,,0,0,c.a. 42795,7.55,,southampton,20-29,0,,7.55
 third,"mahon, mr. john",male,,0,0,aq/4 3130,7.75,,queenstown,,0,,7.75
-third,"niklasson, mr. samuel",male,28.0,0,0,363611,8.05,,southampton,20-29,0,,8.05
-second,"bentham, miss. lilian w",female,19.0,0,0,28404,13.0,,southampton,10-19,0,,13.0
-third,"midtsjo, mr. karl albert",male,21.0,0,0,345501,7.775,,southampton,20-29,0,,7.775
-third,"de messemaeker, mr. guillaume joseph",male,36.5,1,0,345572,17.4,,southampton,30-39,1,,17.4
-third,"nilsson, mr. august ferdinand",male,21.0,0,0,350410,7.8542,,southampton,20-29,0,,7.8542
-second,"wells, mrs. arthur henry (addie"" dart trevaskis)""",female,29.0,0,2,29103,23.0,,southampton,20-29,2,,23.0
-third,"klasen, miss. gertrud emilia",female,1.0,1,1,350405,12.1833,,southampton,0-9,2,,12.1833
-second,"portaluppi, mr. emilio ilario giuseppe",male,30.0,0,0,c.a. 34644,12.7375,,cherbourg,30-39,0,,12.7375
-third,"lyntakoff, mr. stanko",male,,0,0,349235,7.8958,,southampton,,0,,7.8958
-first,"chisholm, mr. roderick robert crispin",male,,0,0,112051,0.0,,southampton,,0,,6.4375
-third,"warren, mr. charles william",male,,0,0,c.a. 49867,7.55,,southampton,,0,,7.55
-third,"howard, miss. may elizabeth",female,,0,0,a. 2. 39186,8.05,,southampton,,0,,8.05
-third,"pokrnic, mr. mate",male,17.0,0,0,315095,8.6625,,southampton,10-19,0,,8.6625
-first,"mccaffry, mr. thomas francis",male,46.0,0,0,13050,75.2417,c6,cherbourg,40-49,0,c,75.2417
-third,"fox, mr. patrick",male,,0,0,368573,7.75,,queenstown,,0,,7.75
-first,"clark, mrs. walter miller (virginia mcdowell)",female,26.0,1,0,13508,136.7792,c89,cherbourg,20-29,1,c,136.7792
-third,"lennon, miss. mary",female,,1,0,370371,15.5,,queenstown,,1,,15.5
+third,"niklasson, mr. samuel",male,28.0,0,0,363611,8.05,,southampton,30-39,0,,8.05
+second,"bentham, miss. lilian w",female,19.0,0,0,28404,13.0,,southampton,30-39,0,,13.0
+third,"midtsjo, mr. karl albert",male,21.0,0,0,345501,7.775,,southampton,50-59,0,,7.775
+third,"de messemaeker, mr. guillaume joseph",male,36.5,1,0,345572,17.4,,southampton,,1,,17.4
+third,"nilsson, mr. august ferdinand",male,21.0,0,0,350410,7.8542,,southampton,0-9,0,,7.8542
+second,"wells, mrs. arthur henry (addie"" dart trevaskis)""",female,29.0,0,2,29103,23.0,,southampton,50-59,2,,23.0
+third,"klasen, miss. gertrud emilia",female,1.0,1,1,350405,12.1833,,southampton,40-49,2,,12.1833
+second,"portaluppi, mr. emilio ilario giuseppe",male,30.0,0,0,c.a. 34644,12.7375,,cherbourg,,0,,12.7375
+third,"lyntakoff, mr. stanko",male,,0,0,349235,7.8958,,southampton,30-39,0,,7.8958
+first,"chisholm, mr. roderick robert crispin",male,,0,0,112051,0.0,,southampton,10-19,0,,6.4375
+third,"warren, mr. charles william",male,,0,0,c.a. 49867,7.55,,southampton,20-29,0,,7.55
+third,"howard, miss. may elizabeth",female,,0,0,a. 2. 39186,8.05,,southampton,50-59,0,,8.05
+third,"pokrnic, mr. mate",male,17.0,0,0,315095,8.6625,,southampton,30-39,0,,8.6625
+first,"mccaffry, mr. thomas francis",male,46.0,0,0,13050,75.2417,c6,cherbourg,,0,c,75.2417
+third,"fox, mr. patrick",male,,0,0,368573,7.75,,queenstown,20-29,0,,7.75
+first,"clark, mrs. walter miller (virginia mcdowell)",female,26.0,1,0,13508,136.7792,c89,cherbourg,40-49,1,c,136.7792
+third,"lennon, miss. mary",female,,1,0,370371,15.5,,queenstown,30-39,1,,15.5
 third,"saade, mr. jean nassr",male,,0,0,2676,7.225,,cherbourg,,0,,7.225
-second,"bryhl, miss. dagmar jenny ingeborg ",female,20.0,1,0,236853,26.0,,southampton,20-29,1,,26.0
-second,"parker, mr. clifford richard",male,28.0,0,0,sc 14888,10.5,,southampton,20-29,0,,10.5
-second,"faunthorpe, mr. harry",male,40.0,1,0,2926,26.0,,southampton,40-49,1,,26.0
-second,"ware, mr. john james",male,30.0,1,0,ca 31352,21.0,,southampton,30-39,1,,21.0
-second,"oxenham, mr. percy thomas",male,22.0,0,0,w./c. 14260,10.5,,southampton,20-29,0,,10.5
-third,"oreskovic, miss. jelka",female,23.0,0,0,315085,8.6625,,southampton,20-29,0,,8.6625
-third,"peacock, master. alfred edward",male,0.75,1,1,soton/o.q. 3101315,13.775,,southampton,0-9,2,,13.775
-third,"fleming, miss. honora",female,,0,0,364859,7.75,,queenstown,,0,,7.75
-third,"touma, miss. maria youssef",female,9.0,1,1,2650,15.2458,,cherbourg,0-9,2,,15.2458
-third,"rosblom, miss. salli helena",female,2.0,1,1,370129,20.2125,,southampton,0-9,2,,20.2125
+second,"bryhl, miss. dagmar jenny ingeborg ",female,20.0,1,0,236853,26.0,,southampton,60-69,1,,26.0
+second,"parker, mr. clifford richard",male,28.0,0,0,sc 14888,10.5,,southampton,40-49,0,,10.5
+second,"faunthorpe, mr. harry",male,40.0,1,0,2926,26.0,,southampton,,1,,26.0
+second,"ware, mr. john james",male,30.0,1,0,ca 31352,21.0,,southampton,0-9,1,,21.0
+second,"oxenham, mr. percy thomas",male,22.0,0,0,w./c. 14260,10.5,,southampton,30-39,0,,10.5
+third,"oreskovic, miss. jelka",female,23.0,0,0,315085,8.6625,,southampton,60-69,0,,8.6625
+third,"peacock, master. alfred edward",male,0.75,1,1,soton/o.q. 3101315,13.775,,southampton,20-29,2,,13.775
+third,"fleming, miss. honora",female,,0,0,364859,7.75,,queenstown,10-19,0,,7.75
+third,"touma, miss. maria youssef",female,9.0,1,1,2650,15.2458,,cherbourg,10-19,2,,15.2458
+third,"rosblom, miss. salli helena",female,2.0,1,1,370129,20.2125,,southampton,,2,,20.2125
 third,"dennis, mr. william",male,36.0,0,0,a/5 21175,7.25,,southampton,30-39,0,,7.25
-third,"franklin, mr. charles (charles fardon)",male,,0,0,soton/o.q. 3101314,7.25,,southampton,,0,,7.25
+third,"franklin, mr. charles (charles fardon)",male,,0,0,soton/o.q. 3101314,7.25,,southampton,30-39,0,,7.25
 first,"snyder, mr. john pillsbury",male,24.0,1,0,21228,82.2667,b45,southampton,20-29,1,b,82.2667
-third,"mardirosian, mr. sarkis",male,,0,0,2655,7.2292,f e46,cherbourg,,0,f,7.2292
-third,"ford, mr. arthur",male,,0,0,a/5 1478,8.05,,southampton,,0,,8.05
-first,"rheims, mr. george alexander lucien",male,,0,0,pc 17607,39.6,,southampton,,0,,39.6
-third,"daly, miss. margaret marcella maggie""""",female,30.0,0,0,382650,6.95,,queenstown,30-39,0,,6.95
-third,"nasr, mr. mustafa",male,,0,0,2652,7.2292,,cherbourg,,0,,7.2292
-first,"dodge, dr. washington",male,53.0,1,1,33638,81.8583,a34,southampton,50-59,2,a,81.8583
-third,"wittevrongel, mr. camille",male,36.0,0,0,345771,9.5,,southampton,30-39,0,,9.5
-third,"angheloff, mr. minko",male,26.0,0,0,349202,7.8958,,southampton,20-29,0,,7.8958
-second,"laroche, miss. louise",female,1.0,1,2,sc/paris 2123,41.5792,,cherbourg,0-9,3,,41.5792
-third,"samaan, mr. hanna",male,,2,0,2662,21.6792,,cherbourg,,2,,21.6792
-first,"loring, mr. joseph holland",male,30.0,0,0,113801,45.5,,southampton,30-39,0,,45.5
-third,"johansson, mr. nils",male,29.0,0,0,347467,7.8542,,southampton,20-29,0,,7.8542
-third,"olsson, mr. oscar wilhelm",male,32.0,0,0,347079,7.775,,southampton,30-39,0,,7.775
+third,"mardirosian, mr. sarkis",male,,0,0,2655,7.2292,f e46,cherbourg,40-49,0,f,7.2292
+third,"ford, mr. arthur",male,,0,0,a/5 1478,8.05,,southampton,20-29,0,,8.05
+first,"rheims, mr. george alexander lucien",male,,0,0,pc 17607,39.6,,southampton,20-29,0,,39.6
+third,"daly, miss. margaret marcella maggie""""",female,30.0,0,0,382650,6.95,,queenstown,10-19,0,,6.95
+third,"nasr, mr. mustafa",male,,0,0,2652,7.2292,,cherbourg,30-39,0,,7.2292
+first,"dodge, dr. washington",male,53.0,1,1,33638,81.8583,a34,southampton,20-29,2,a,81.8583
+third,"wittevrongel, mr. camille",male,36.0,0,0,345771,9.5,,southampton,20-29,0,,9.5
+third,"angheloff, mr. minko",male,26.0,0,0,349202,7.8958,,southampton,,0,,7.8958
+second,"laroche, miss. louise",female,1.0,1,2,sc/paris 2123,41.5792,,cherbourg,20-29,3,,41.5792
+third,"samaan, mr. hanna",male,,2,0,2662,21.6792,,cherbourg,0-9,2,,21.6792
+first,"loring, mr. joseph holland",male,30.0,0,0,113801,45.5,,southampton,,0,,45.5
+third,"johansson, mr. nils",male,29.0,0,0,347467,7.8542,,southampton,50-59,0,,7.8542
+third,"olsson, mr. oscar wilhelm",male,32.0,0,0,347079,7.775,,southampton,,0,,7.775
 second,"malachard, mr. noel",male,,0,0,237735,15.0458,d,cherbourg,,0,d,15.0458
-second,"phillips, mr. escott robert",male,43.0,0,1,s.o./p.p. 2,21.0,,southampton,40-49,1,,21.0
-third,"pokrnic, mr. tome",male,24.0,0,0,315092,8.6625,,southampton,20-29,0,,8.6625
+second,"phillips, mr. escott robert",male,43.0,0,1,s.o./p.p. 2,21.0,,southampton,10-19,1,,21.0
+third,"pokrnic, mr. tome",male,24.0,0,0,315092,8.6625,,southampton,,0,,8.6625
 third,"mccarthy, miss. catherine katie""""",female,,0,0,383123,7.75,,queenstown,,0,,7.75
-first,"crosby, mrs. edward gifford (catherine elizabeth halstead)",female,64.0,1,1,112901,26.55,b26,southampton,60-69,2,b,26.55
-first,"allison, mr. hudson joshua creighton",male,30.0,1,2,113781,151.55,c22 c26,southampton,30-39,3,c,151.55
-third,"aks, master. philip frank",male,0.83,0,1,392091,9.35,,southampton,0-9,1,,9.35
-first,"hays, mr. charles melville",male,55.0,1,1,12749,93.5,b69,southampton,50-59,2,b,93.5
-third,"hansen, mrs. claus peter (jennie l howard)",female,45.0,1,0,350026,14.1083,,southampton,40-49,1,,14.1083
-third,"cacic, mr. jego grga",male,18.0,0,0,315091,8.6625,,southampton,10-19,0,,8.6625
-third,"vartanian, mr. david",male,22.0,0,0,2658,7.225,,cherbourg,20-29,0,,7.225
-third,"sadowitz, mr. harry",male,,0,0,lp 1588,7.575,,southampton,,0,,7.575
-third,"carr, miss. jeannie",female,37.0,0,0,368364,7.75,,queenstown,30-39,0,,7.75
-first,"white, mrs. john stuart (ella holmes)",female,55.0,0,0,pc 17760,135.6333,c32,cherbourg,50-59,0,c,135.6333
-third,"hagardon, miss. kate",female,17.0,0,0,aq/3. 30631,7.7333,,queenstown,10-19,0,,7.7333
-first,"spencer, mr. william augustus",male,57.0,1,0,pc 17569,146.5208,b78,cherbourg,50-59,1,b,146.5208
-second,"rogers, mr. reginald harry",male,19.0,0,0,28004,10.5,,southampton,10-19,0,,10.5
-third,"jonsson, mr. nils hilding",male,27.0,0,0,350408,7.8542,,southampton,20-29,0,,7.8542
-second,"jefferys, mr. ernest wilfred",male,22.0,2,0,c.a. 31029,31.5,,southampton,20-29,2,,31.5
+first,"crosby, mrs. edward gifford (catherine elizabeth halstead)",female,64.0,1,1,112901,26.55,b26,southampton,0-9,2,b,26.55
+first,"allison, mr. hudson joshua creighton",male,30.0,1,2,113781,151.55,c22 c26,southampton,,3,c,151.55
+third,"aks, master. philip frank",male,0.83,0,1,392091,9.35,,southampton,10-19,1,,9.35
+first,"hays, mr. charles melville",male,55.0,1,1,12749,93.5,b69,southampton,30-39,2,b,93.5
+third,"hansen, mrs. claus peter (jennie l howard)",female,45.0,1,0,350026,14.1083,,southampton,30-39,1,,14.1083
+third,"cacic, mr. jego grga",male,18.0,0,0,315091,8.6625,,southampton,20-29,0,,8.6625
+third,"vartanian, mr. david",male,22.0,0,0,2658,7.225,,cherbourg,10-19,0,,7.225
+third,"sadowitz, mr. harry",male,,0,0,lp 1588,7.575,,southampton,20-29,0,,7.575
+third,"carr, miss. jeannie",female,37.0,0,0,368364,7.75,,queenstown,20-29,0,,7.75
+first,"white, mrs. john stuart (ella holmes)",female,55.0,0,0,pc 17760,135.6333,c32,cherbourg,40-49,0,c,135.6333
+third,"hagardon, miss. kate",female,17.0,0,0,aq/3. 30631,7.7333,,queenstown,20-29,0,,7.7333
+first,"spencer, mr. william augustus",male,57.0,1,0,pc 17569,146.5208,b78,cherbourg,20-29,1,b,146.5208
+second,"rogers, mr. reginald harry",male,19.0,0,0,28004,10.5,,southampton,50-59,0,,10.5
+third,"jonsson, mr. nils hilding",male,27.0,0,0,350408,7.8542,,southampton,30-39,0,,7.8542
+second,"jefferys, mr. ernest wilfred",male,22.0,2,0,c.a. 31029,31.5,,southampton,40-49,2,,31.5
 third,"andersson, mr. johan samuel",male,26.0,0,0,347075,7.775,,southampton,20-29,0,,7.775
 third,"krekorian, mr. neshan",male,25.0,0,0,2654,7.2292,f e57,cherbourg,20-29,0,f,7.2292
-second,"nesson, mr. israel",male,26.0,0,0,244368,13.0,f2,southampton,20-29,0,f,13.0
-first,"rowe, mr. alfred g",male,33.0,0,0,113790,26.55,,southampton,30-39,0,,26.55
-first,"kreuchen, miss. emilie",female,39.0,0,0,24160,211.3375,,southampton,30-39,0,,211.3375
-third,"assam, mr. ali",male,23.0,0,0,soton/o.q. 3101309,7.05,,southampton,20-29,0,,7.05
-second,"becker, miss. ruth elizabeth",female,12.0,2,1,230136,39.0,f4,southampton,10-19,3,f,39.0
-first,"rosenshine, mr. george (mr george thorne"")""",male,46.0,0,0,pc 17585,79.2,,cherbourg,40-49,0,,79.2
-second,"clarke, mr. charles valentine",male,29.0,1,0,2003,26.0,,southampton,20-29,1,,26.0
-second,"enander, mr. ingvar",male,21.0,0,0,236854,13.0,,southampton,20-29,0,,13.0
-second,"davies, mrs. john morgan (elizabeth agnes mary white) ",female,48.0,0,2,c.a. 33112,36.75,,southampton,40-49,2,,36.75
-first,"dulles, mr. william crothers",male,39.0,0,0,pc 17580,29.7,a18,cherbourg,30-39,0,a,29.7
-third,"thomas, mr. tannous",male,,0,0,2684,7.225,,cherbourg,,0,,7.225
+second,"nesson, mr. israel",male,26.0,0,0,244368,13.0,f2,southampton,30-39,0,f,13.0
+first,"rowe, mr. alfred g",male,33.0,0,0,113790,26.55,,southampton,20-29,0,,26.55
+first,"kreuchen, miss. emilie",female,39.0,0,0,24160,211.3375,,southampton,,0,,211.3375
+third,"assam, mr. ali",male,23.0,0,0,soton/o.q. 3101309,7.05,,southampton,30-39,0,,7.05
+second,"becker, miss. ruth elizabeth",female,12.0,2,1,230136,39.0,f4,southampton,60-69,3,f,39.0
+first,"rosenshine, mr. george (mr george thorne"")""",male,46.0,0,0,pc 17585,79.2,,cherbourg,30-39,0,,79.2
+second,"clarke, mr. charles valentine",male,29.0,1,0,2003,26.0,,southampton,30-39,1,,26.0
+second,"enander, mr. ingvar",male,21.0,0,0,236854,13.0,,southampton,10-19,0,,13.0
+second,"davies, mrs. john morgan (elizabeth agnes mary white) ",female,48.0,0,2,c.a. 33112,36.75,,southampton,,2,,36.75
+first,"dulles, mr. william crothers",male,39.0,0,0,pc 17580,29.7,a18,cherbourg,40-49,0,a,29.7
+third,"thomas, mr. tannous",male,,0,0,2684,7.225,,cherbourg,30-39,0,,7.225
 third,"nakid, mrs. said (waika mary"" mowad)""",female,19.0,1,1,2653,15.7417,,cherbourg,10-19,2,,15.7417
-third,"cor, mr. ivan",male,27.0,0,0,349229,7.8958,,southampton,20-29,0,,7.8958
-first,"maguire, mr. john edward",male,30.0,0,0,110469,26.0,c106,southampton,30-39,0,c,26.0
-second,"de brito, mr. jose joaquim",male,32.0,0,0,244360,13.0,,southampton,30-39,0,,13.0
-third,"elias, mr. joseph",male,39.0,0,2,2675,7.2292,,cherbourg,30-39,2,,7.2292
-second,"denbury, mr. herbert",male,25.0,0,0,c.a. 31029,31.5,,southampton,20-29,0,,31.5
-third,"betros, master. seman",male,,0,0,2622,7.2292,,cherbourg,,0,,7.2292
-second,"fillbrook, mr. joseph charles",male,18.0,0,0,c.a. 15185,10.5,,southampton,10-19,0,,10.5
-third,"lundstrom, mr. thure edvin",male,32.0,0,0,350403,7.5792,,southampton,30-39,0,,7.5792
-third,"sage, mr. john george",male,,1,9,ca. 2343,69.55,,southampton,,10,,69.55
-first,"cardeza, mrs. james warburton martinez (charlotte wardle drake)",female,58.0,0,1,pc 17755,512.3292,b51 b53 b55,cherbourg,50-59,1,b,262.375
-third,"van billiard, master. james william",male,,1,1,a/5. 851,14.5,,southampton,,2,,14.5
-third,"abelseth, miss. karen marie",female,16.0,0,0,348125,7.65,,southampton,10-19,0,,7.65
-second,"botsford, mr. william hull",male,26.0,0,0,237670,13.0,,southampton,20-29,0,,13.0
-third,"whabee, mrs. george joseph (shawneene abi-saab)",female,38.0,0,0,2688,7.2292,,cherbourg,30-39,0,,7.2292
-second,"giles, mr. ralph",male,24.0,0,0,248726,13.5,,southampton,20-29,0,,13.5
-second,"walcroft, miss. nellie",female,31.0,0,0,f.c.c. 13528,21.0,,southampton,30-39,0,,21.0
-first,"greenfield, mrs. leo david (blanche strouse)",female,45.0,0,1,pc 17759,63.3583,d10 d12,cherbourg,40-49,1,d,63.3583
-second,"stokes, mr. philip joseph",male,25.0,0,0,f.c.c. 13540,10.5,,southampton,20-29,0,,10.5
+third,"cor, mr. ivan",male,27.0,0,0,349229,7.8958,,southampton,,0,,7.8958
+first,"maguire, mr. john edward",male,30.0,0,0,110469,26.0,c106,southampton,,0,c,26.0
+second,"de brito, mr. jose joaquim",male,32.0,0,0,244360,13.0,,southampton,20-29,0,,13.0
+third,"elias, mr. joseph",male,39.0,0,2,2675,7.2292,,cherbourg,40-49,2,,7.2292
+second,"denbury, mr. herbert",male,25.0,0,0,c.a. 31029,31.5,,southampton,40-49,0,,31.5
+third,"betros, master. seman",male,,0,0,2622,7.2292,,cherbourg,40-49,0,,7.2292
+second,"fillbrook, mr. joseph charles",male,18.0,0,0,c.a. 15185,10.5,,southampton,0-9,0,,10.5
+third,"lundstrom, mr. thure edvin",male,32.0,0,0,350403,7.5792,,southampton,20-29,0,,7.5792
+third,"sage, mr. john george",male,,1,9,ca. 2343,69.55,,southampton,20-29,10,,69.55
+first,"cardeza, mrs. james warburton martinez (charlotte wardle drake)",female,58.0,0,1,pc 17755,512.3292,b51 b53 b55,cherbourg,20-29,1,b,262.375
+third,"van billiard, master. james william",male,,1,1,a/5. 851,14.5,,southampton,30-39,2,,14.5
+third,"abelseth, miss. karen marie",female,16.0,0,0,348125,7.65,,southampton,20-29,0,,7.65
+second,"botsford, mr. william hull",male,26.0,0,0,237670,13.0,,southampton,40-49,0,,13.0
+third,"whabee, mrs. george joseph (shawneene abi-saab)",female,38.0,0,0,2688,7.2292,,cherbourg,,0,,7.2292
+second,"giles, mr. ralph",male,24.0,0,0,248726,13.5,,southampton,0-9,0,,13.5
+second,"walcroft, miss. nellie",female,31.0,0,0,f.c.c. 13528,21.0,,southampton,40-49,0,,21.0
+first,"greenfield, mrs. leo david (blanche strouse)",female,45.0,0,1,pc 17759,63.3583,d10 d12,cherbourg,20-29,1,d,63.3583
+second,"stokes, mr. philip joseph",male,25.0,0,0,f.c.c. 13540,10.5,,southampton,,0,,10.5
 second,"dibden, mr. william",male,18.0,0,0,s.o.c. 14879,73.5,,southampton,10-19,0,,73.5
-second,"herman, mr. samuel",male,49.0,1,2,220845,65.0,,southampton,40-49,3,,65.0
-third,"dean, miss. elizabeth gladys millvina""""",female,0.17,1,2,c.a. 2315,20.575,,southampton,0-9,3,,20.575
-first,"julian, mr. henry forbes",male,50.0,0,0,113044,26.0,e60,southampton,50-59,0,e,26.0
-first,"brown, mrs. john murray (caroline lane lamson)",female,59.0,2,0,11769,51.4792,c101,southampton,50-59,2,c,51.4792
-third,"lockyer, mr. edward",male,,0,0,1222,7.8792,,southampton,,0,,7.8792
+second,"herman, mr. samuel",male,49.0,1,2,220845,65.0,,southampton,20-29,3,,65.0
+third,"dean, miss. elizabeth gladys millvina""""",female,0.17,1,2,c.a. 2315,20.575,,southampton,,3,,20.575
+first,"julian, mr. henry forbes",male,50.0,0,0,113044,26.0,e60,southampton,20-29,0,e,26.0
+first,"brown, mrs. john murray (caroline lane lamson)",female,59.0,2,0,11769,51.4792,c101,southampton,20-29,2,c,51.4792
+third,"lockyer, mr. edward",male,,0,0,1222,7.8792,,southampton,30-39,0,,7.8792
 third,"o'keefe, mr. patrick",male,,0,0,368402,7.75,,queenstown,,0,,7.75
-third,"lindell, mrs. edvard bengtsson (elin gerda persson)",female,30.0,1,0,349910,15.55,,southampton,30-39,1,,15.55
-third,"sage, master. william henry",male,14.5,8,2,ca. 2343,69.55,,southampton,10-19,10,,69.55
+third,"lindell, mrs. edvard bengtsson (elin gerda persson)",female,30.0,1,0,349910,15.55,,southampton,,1,,15.55
+third,"sage, master. william henry",male,14.5,8,2,ca. 2343,69.55,,southampton,40-49,10,,69.55
 second,"mallet, mrs. albert (antoinette magnin)",female,24.0,1,1,s.c./paris 2079,37.0042,,cherbourg,20-29,2,,37.0042
-second,"ware, mrs. john james (florence louise long)",female,31.0,0,0,ca 31352,21.0,,southampton,30-39,0,,21.0
-third,"strilic, mr. ivan",male,27.0,0,0,315083,8.6625,,southampton,20-29,0,,8.6625
-first,"harder, mrs. george achilles (dorothy annan)",female,25.0,1,0,11765,55.4417,e50,cherbourg,20-29,1,e,55.4417
-third,"sage, mrs. john (annie bullen)",female,,1,9,ca. 2343,69.55,,southampton,,10,,69.55
-third,"caram, mr. joseph",male,,1,0,2689,14.4583,,cherbourg,,1,,14.4583
-third,"riihivouri, miss. susanna juhantytar sanni""""",female,22.0,0,0,3101295,39.6875,,southampton,20-29,0,,39.6875
-first,"gibson, mrs. leonard (pauline c boeson)",female,45.0,0,1,112378,59.4,,cherbourg,40-49,1,,59.4
+second,"ware, mrs. john james (florence louise long)",female,31.0,0,0,ca 31352,21.0,,southampton,40-49,0,,21.0
+third,"strilic, mr. ivan",male,27.0,0,0,315083,8.6625,,southampton,30-39,0,,8.6625
+first,"harder, mrs. george achilles (dorothy annan)",female,25.0,1,0,11765,55.4417,e50,cherbourg,,1,e,55.4417
+third,"sage, mrs. john (annie bullen)",female,,1,9,ca. 2343,69.55,,southampton,30-39,10,,69.55
+third,"caram, mr. joseph",male,,1,0,2689,14.4583,,cherbourg,60-69,1,,14.4583
+third,"riihivouri, miss. susanna juhantytar sanni""""",female,22.0,0,0,3101295,39.6875,,southampton,,0,,39.6875
+first,"gibson, mrs. leonard (pauline c boeson)",female,45.0,0,1,112378,59.4,,cherbourg,,1,,59.4
 second,"pallas y castello, mr. emilio",male,29.0,0,0,sc/paris 2147,13.8583,,cherbourg,20-29,0,,13.8583
 second,"giles, mr. edgar",male,21.0,1,0,28133,11.5,,southampton,20-29,1,,11.5
-first,"wilson, miss. helen alice",female,31.0,0,0,16966,134.5,e39 e41,cherbourg,30-39,0,e,134.5
-first,"ismay, mr. joseph bruce",male,49.0,0,0,112058,0.0,b52 b54 b56,southampton,40-49,0,b,6.4375
-second,"harbeck, mr. william h",male,44.0,0,0,248746,13.0,,southampton,40-49,0,,13.0
-first,"dodge, mrs. washington (ruth vidaver)",female,54.0,1,1,33638,81.8583,a34,southampton,50-59,2,a,81.8583
-first,"bowen, miss. grace scott",female,45.0,0,0,pc 17608,262.375,,cherbourg,40-49,0,,262.375
+first,"wilson, miss. helen alice",female,31.0,0,0,16966,134.5,e39 e41,cherbourg,10-19,0,e,134.5
+first,"ismay, mr. joseph bruce",male,49.0,0,0,112058,0.0,b52 b54 b56,southampton,10-19,0,b,6.4375
+second,"harbeck, mr. william h",male,44.0,0,0,248746,13.0,,southampton,20-29,0,,13.0
+first,"dodge, mrs. washington (ruth vidaver)",female,54.0,1,1,33638,81.8583,a34,southampton,0-9,2,a,81.8583
+first,"bowen, miss. grace scott",female,45.0,0,0,pc 17608,262.375,,cherbourg,,0,,262.375
 third,"kink, miss. maria",female,22.0,2,0,315152,8.6625,,southampton,20-29,2,,8.6625
 second,"cotterill, mr. henry harry""""",male,21.0,0,0,29107,11.5,,southampton,20-29,0,,11.5
-first,"hipkins, mr. william edward",male,55.0,0,0,680,50.0,c39,southampton,50-59,0,c,50.0
-third,"asplund, master. carl edgar",male,5.0,4,2,347077,31.3875,,southampton,0-9,6,,31.3875
-third,"o'connor, mr. patrick",male,,0,0,366713,7.75,,queenstown,,0,,7.75
-third,"foley, mr. joseph",male,26.0,0,0,330910,7.8792,,queenstown,20-29,0,,7.8792
-third,"risien, mrs. samuel (emma)",female,,0,0,364498,14.5,,southampton,,0,,14.5
-third,"mcnamee, mrs. neal (eileen o'leary)",female,19.0,1,0,376566,16.1,,southampton,10-19,1,,16.1
+first,"hipkins, mr. william edward",male,55.0,0,0,680,50.0,c39,southampton,20-29,0,c,50.0
+third,"asplund, master. carl edgar",male,5.0,4,2,347077,31.3875,,southampton,10-19,6,,31.3875
+third,"o'connor, mr. patrick",male,,0,0,366713,7.75,,queenstown,40-49,0,,7.75
+third,"foley, mr. joseph",male,26.0,0,0,330910,7.8792,,queenstown,0-9,0,,7.8792
+third,"risien, mrs. samuel (emma)",female,,0,0,364498,14.5,,southampton,30-39,0,,14.5
+third,"mcnamee, mrs. neal (eileen o'leary)",female,19.0,1,0,376566,16.1,,southampton,30-39,1,,16.1
 second,"wheeler, mr. edwin frederick""""",male,,0,0,sc/paris 2159,12.875,,southampton,,0,,12.875
-second,"herman, miss. kate",female,24.0,1,2,220845,65.0,,southampton,20-29,3,,65.0
-third,"aronsson, mr. ernst axel algot",male,24.0,0,0,349911,7.775,,southampton,20-29,0,,7.775
-second,"ashby, mr. john",male,57.0,0,0,244346,13.0,,southampton,50-59,0,,13.0
-third,"canavan, mr. patrick",male,21.0,0,0,364858,7.75,,queenstown,20-29,0,,7.75
-third,"palsson, master. paul folke",male,6.0,3,1,349909,21.075,,southampton,0-9,4,,21.075
-first,"payne, mr. vivian ponsonby",male,23.0,0,0,12749,93.5,b24,southampton,20-29,0,b,93.5
-first,"lines, mrs. ernest h (elizabeth lindsey james)",female,51.0,0,1,pc 17592,39.4,d28,southampton,50-59,1,d,39.4
-third,"abbott, master. eugene joseph",male,13.0,0,2,c.a. 2673,20.25,,southampton,10-19,2,,20.25
-second,"gilbert, mr. william",male,47.0,0,0,c.a. 30769,10.5,,southampton,40-49,0,,10.5
+second,"herman, miss. kate",female,24.0,1,2,220845,65.0,,southampton,10-19,3,,65.0
+third,"aronsson, mr. ernst axel algot",male,24.0,0,0,349911,7.775,,southampton,0-9,0,,7.775
+second,"ashby, mr. john",male,57.0,0,0,244346,13.0,,southampton,30-39,0,,13.0
+third,"canavan, mr. patrick",male,21.0,0,0,364858,7.75,,queenstown,,0,,7.75
+third,"palsson, master. paul folke",male,6.0,3,1,349909,21.075,,southampton,10-19,4,,21.075
+first,"payne, mr. vivian ponsonby",male,23.0,0,0,12749,93.5,b24,southampton,30-39,0,b,93.5
+first,"lines, mrs. ernest h (elizabeth lindsey james)",female,51.0,0,1,pc 17592,39.4,d28,southampton,20-29,1,d,39.4
+third,"abbott, master. eugene joseph",male,13.0,0,2,c.a. 2673,20.25,,southampton,20-29,2,,20.25
+second,"gilbert, mr. william",male,47.0,0,0,c.a. 30769,10.5,,southampton,20-29,0,,10.5
 third,"kink-heilmann, mr. anton",male,29.0,3,1,315153,22.025,,southampton,20-29,4,,22.025
-first,"smith, mrs. lucien philip (mary eloise hughes)",female,18.0,1,0,13695,60.0,c31,southampton,10-19,1,c,60.0
-third,"colbert, mr. patrick",male,24.0,0,0,371109,7.25,,queenstown,20-29,0,,7.25
+first,"smith, mrs. lucien philip (mary eloise hughes)",female,18.0,1,0,13695,60.0,c31,southampton,20-29,1,c,60.0
+third,"colbert, mr. patrick",male,24.0,0,0,371109,7.25,,queenstown,30-39,0,,7.25
 first,"frolicher-stehli, mrs. maxmillian (margaretha emerentia stehli)",female,48.0,1,1,13567,79.2,b41,cherbourg,40-49,2,b,79.2
 third,"larsson-rondberg, mr. edvard a",male,22.0,0,0,347065,7.775,,southampton,20-29,0,,7.775
-third,"conlon, mr. thomas henry",male,31.0,0,0,21332,7.7333,,queenstown,30-39,0,,7.7333
+third,"conlon, mr. thomas henry",male,31.0,0,0,21332,7.7333,,queenstown,20-29,0,,7.7333
 first,"bonnell, miss. caroline",female,30.0,0,0,36928,164.8667,c7,southampton,30-39,0,c,164.8667
-second,"gale, mr. harry",male,38.0,1,0,28664,21.0,,southampton,30-39,1,,21.0
+second,"gale, mr. harry",male,38.0,1,0,28664,21.0,,southampton,20-29,1,,21.0
 first,"gibson, miss. dorothy winifred",female,22.0,0,1,112378,59.4,,cherbourg,20-29,1,,59.4
-first,"carrau, mr. jose pedro",male,17.0,0,0,113059,47.1,,southampton,10-19,0,,47.1
-first,"frauenthal, mr. isaac gerald",male,43.0,1,0,17765,27.7208,d40,cherbourg,40-49,1,d,27.7208
-second,"nourney, mr. alfred (baron von drachstedt"")""",male,20.0,0,0,sc/paris 2166,13.8625,d38,cherbourg,20-29,0,d,13.8625
-second,"ware, mr. william jeffery",male,23.0,1,0,28666,10.5,,southampton,20-29,1,,10.5
-first,"widener, mr. george dunton",male,50.0,1,1,113503,211.5,c80,cherbourg,50-59,2,c,211.5
-third,"riordan, miss. johanna hannah""""",female,,0,0,334915,7.7208,,queenstown,,0,,7.7208
-third,"peacock, miss. treasteall",female,3.0,1,1,soton/o.q. 3101315,13.775,,southampton,0-9,2,,13.775
+first,"carrau, mr. jose pedro",male,17.0,0,0,113059,47.1,,southampton,20-29,0,,47.1
+first,"frauenthal, mr. isaac gerald",male,43.0,1,0,17765,27.7208,d40,cherbourg,20-29,1,d,27.7208
+second,"nourney, mr. alfred (baron von drachstedt"")""",male,20.0,0,0,sc/paris 2166,13.8625,d38,cherbourg,30-39,0,d,13.8625
+second,"ware, mr. william jeffery",male,23.0,1,0,28666,10.5,,southampton,50-59,1,,10.5
+first,"widener, mr. george dunton",male,50.0,1,1,113503,211.5,c80,cherbourg,0-9,2,c,211.5
+third,"riordan, miss. johanna hannah""""",female,,0,0,334915,7.7208,,queenstown,20-29,0,,7.7208
+third,"peacock, miss. treasteall",female,3.0,1,1,soton/o.q. 3101315,13.775,,southampton,,2,,13.775
 third,"naughton, miss. hannah",female,,0,0,365237,7.75,,queenstown,,0,,7.75
-first,"minahan, mrs. william edward (lillian e thorpe)",female,37.0,1,0,19928,90.0,c78,queenstown,30-39,1,c,90.0
-third,"henriksson, miss. jenny lovisa",female,28.0,0,0,347086,7.775,,southampton,20-29,0,,7.775
+first,"minahan, mrs. william edward (lillian e thorpe)",female,37.0,1,0,19928,90.0,c78,queenstown,,1,c,90.0
+third,"henriksson, miss. jenny lovisa",female,28.0,0,0,347086,7.775,,southampton,30-39,0,,7.775
 third,"spector, mr. woolf",male,,0,0,a.5. 3236,8.05,,southampton,,0,,8.05
-first,"oliva y ocana, dona. fermina",female,39.0,0,0,pc 17758,108.9,c105,cherbourg,30-39,0,c,108.9
-third,"saether, mr. simon sivertsen",male,38.5,0,0,soton/o.q. 3101262,7.25,,southampton,30-39,0,,7.25
-third,"ware, mr. frederick",male,,0,0,359309,8.05,,southampton,,0,,8.05
-third,"peter, master. michael j",male,,1,1,2668,22.3583,,cherbourg,,2,,22.3583
+first,"oliva y ocana, dona. fermina",female,39.0,0,0,pc 17758,108.9,c105,cherbourg,40-49,0,c,108.9
+third,"saether, mr. simon sivertsen",male,38.5,0,0,soton/o.q. 3101262,7.25,,southampton,,0,,7.25
+third,"ware, mr. frederick",male,,0,0,359309,8.05,,southampton,30-39,0,,8.05
+third,"peter, master. michael j",male,,1,1,2668,22.3583,,cherbourg,10-19,2,,22.3583

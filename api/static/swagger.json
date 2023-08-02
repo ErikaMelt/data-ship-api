@@ -1,0 +1,235 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Titanic Survival Prediction API",
+    "description": "This is a survival prediction API for the Titanic dataset",
+    "termsOfService": "http://swagger.io/terms/",
+    "contact": {
+      "email": "apiteam@swagger.io"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "version": "1.0.0"
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  },
+  "servers": [
+    {
+      "url": "http://127.0.0.1:5000/predict"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Prediction",
+      "description": "Survival Prediction"
+    },
+    {
+      "name": "Ping",
+      "description": "Health Check"
+    }
+  ],
+  "paths": {
+    "/predict": {
+      "post": {
+        "tags": [
+          "Prediction"
+        ],
+        "summary": "Get survival prediction from the Ship",
+        "description": "Get survival predictions for passengers on the Titanic based on their attributes such as passenger class, gender, embarked port, family size, fare, and age",
+        "operationId": "getSurvivalPrediction",
+        "requestBody": {
+          "description": "Get a prediction",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PredictionRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PredictionResponse"
+                }
+              }
+            }
+          },
+          "405": {
+            "description": "Invalid input"
+          }
+        },
+        "security": [
+          {
+            "petstore_auth": [
+              "write:pets",
+              "read:pets"
+            ]
+          }
+        ]
+      }
+    },
+    "/ping": {
+      "get": {
+        "tags": [
+          "Ping"
+        ],
+        "summary": "Returns a health check API status",
+        "description": "Multiple status values can be provided with comma-separated strings",
+        "operationId": "pingcheck",
+        "parameters": [
+          {
+            "name": "status",
+            "in": "query",
+            "description": "Status values that need to be considered for filter",
+            "required": false,
+            "explode": true,
+            "schema": {
+              "type": "string",
+              "default": "available",
+              "enum": [
+                "available",
+                "pending"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Pet"
+                  }
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Pet"
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid status value"
+          }
+        },
+        "security": [
+          {
+            "petstore_auth": [
+              "write:pets",
+              "read:pets"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PredictionRequest": {
+        "type": "object",
+        "properties": {
+          "passenger_class": {
+            "type": "string",
+            "description": "Passenger class, should be 'first', 'second', or 'third'.",
+            "example": "first"
+          },
+          "gender": {
+            "type": "string",
+            "description": "Gender of the passenger, should be 'male' or 'female'.",
+            "example": "female"
+          },
+          "embarked_from": {
+            "type": "string",
+            "description": "Port of embarkation, should be 'Southampton', 'Queenstown', or 'Cherbourg'.",
+            "example": "Southampton"
+          },
+          "family_size": {
+            "type": "integer",
+            "description": "Number of family members.",
+            "example": 2
+          },
+          "fare": {
+            "type": "number",
+            "description": "Fare amount.",
+            "example": 100
+          },
+          "age": {
+            "type": "integer",
+            "description": "Age of the passenger.",
+            "example": 35
+          }
+        },
+        "required": [
+          "passenger_class",
+          "gender",
+          "embarked_from",
+          "family_size",
+          "fare",
+          "age"
+        ]
+      },
+      "PredictionResponse": {
+        "type": "object",
+        "properties": {
+          "predictions": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int64",
+              "example": 1
+            }
+          },
+          "probabilities": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "number",
+                "format": "float",
+                "example": 0.2
+              }
+            }
+          }
+        },
+        "xml": {
+          "name": "PredictionResponse"
+        }
+      }
+    },
+    "securitySchemes": {
+      "petstore_auth": {
+        "type": "oauth2",
+        "flows": {
+          "implicit": {
+            "authorizationUrl": "https://petstore3.swagger.io/oauth/authorize",
+            "scopes": {
+              "write:pets": "modify pets in your account",
+              "read:pets": "read your pets"
+            }
+          }
+        }
+      },
+      "api_key": {
+        "type": "apiKey",
+        "name": "api_key",
+        "in": "header"
+      }
+    }
+  }
+}
