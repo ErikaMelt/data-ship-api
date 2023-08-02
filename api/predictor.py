@@ -14,7 +14,6 @@ def predict(model, data):
     probability = model.predict_proba(data)
     return prediction, probability
 
-
 def get_age_category(data):
     age = data['age'].iloc[0] 
 
