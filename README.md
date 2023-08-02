@@ -57,8 +57,8 @@ The request body should be a JSON object with the following attributes:
 
 The API responds with a JSON object containing the following attributes:
 
-- `predictions` (list of int): List of prediction results (0 or 1) for each input.
-- `probabilities` (list of float): List of prediction probabilities for each class.
+- `predictions` (list of int): List of prediction results (0 or 1) for each input. The output prediction can be interpreted as 1 Survival and 0 Non survival. 
+- `probabilities` (list of float): List of prediction probabilities for each class Survival and Non Survival. 
 
 Example:
 
