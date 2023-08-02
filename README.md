@@ -1,13 +1,16 @@
 # Titanic Survival Prediction API
 
 ![Titanic](https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg" alt="titanic" width="500" height="400">
+
 
 This is a RESTful API that provides survival predictions for passengers on the Titanic based on their attributes such as passenger class, gender, embarked port, family size, fare, and age. The API is built using Flask and serves the `swagger.json` file for API documentation.
 
 ## API Documentation
 
 You can find the detailed API documentation in the [swagger.json](https://github.com/ErikaMelt/data-ship-api/tree/main/api/static/swagger.json) file. This file follows the OpenAPI 3.0.3 specification and contains all the necessary information about the API endpoints, request parameters, and response schemas.
-![Swagger UI](https://github.com/ErikaMelt/data-ship-api/tree/main/images/swagger_docs.png)
+
+<img src="https://github.com/ErikaMelt/data-ship-api/blob/main/images/swagger_docs.png" alt="Swagger UI" width="500" height="300">
 
 
 ## Architecture
@@ -80,7 +83,7 @@ Response:
 "probabilities": [[0.2, 0.8]]
 }
 
-![PostMan Example](https://github.com/ErikaMelt/data-ship-api/tree/main/images/postman_post.png)
+<img src="https://github.com/ErikaMelt/data-ship-api/blob/main/images/postman_post.png" alt="Swagger UI" width="500" height="300">
 
 
 ### GET /ping
