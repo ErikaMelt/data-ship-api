@@ -10,7 +10,6 @@ api = Api(app)
 
 model = load_file(config.MODEL_PATH)
 
-# Call factory function to create our blueprint
 swaggerui_blueprint = get_swaggerui_blueprint(
     config.SWAGGER_URL,  
     config.API_URL,
@@ -22,46 +21,6 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 app.register_blueprint(swaggerui_blueprint)
 
 class Prediction(Resource):
-    """
-    API endpoint for making survival predictions.
-
-    This class handles the POST request to the '/predict' endpoint.
-    It expects a JSON payload containing information about the passenger
-    and returns the prediction result and probabilities.
-
-    Parameters:
-        - passenger_class (str): Passenger class, should be 'first', 'second', or 'third'.
-        - gender (str): Gender of the passenger, should be 'male' or 'female'.
-        - embarked_from (str): Port of embarkation, should be 'southampton', 'queenstown', or 'cherbourg'.
-        - family_size (int): Number of family members.
-        - fare (float): Fare amount.
-        - age (int): Age of the passenger.
-
-    Returns:
-        - predictions (list of int): List of prediction results (0 or 1) for each input.
-        - probabilities (list of float): List of prediction probabilities for each class.
-
-    Raises:
-        - 400 Bad Request: If the input data is not in the expected format.
-        - 500 Internal Server Error: If an unexpected error occurs during prediction.
-
-    Example:
-        POST /predict
-        {
-            "passenger_class": "first",
-            "gender": "female",
-            "embarked_from": "cherbourg",
-            "family_size": 2,
-            "fare": 100.0,
-            "age": 35
-        }
-
-        Response:
-        {
-            "predictions": [1],
-            "probabilities": [[0.2, 0.8]]
-        }
-    """
     def validate_input(self, data):
         try:
             required_keys = ["passenger_class", "gender", "embarked_from", "family_size", "fare", "age"]
@@ -126,8 +85,6 @@ class Prediction(Resource):
 
 
 api.add_resource(Prediction, "/predict")
-#app.add_url_rule("/ping", "ping", Prediction().ping, methods=['GET'])
-
 
 if __name__ == "__main__":
     app.run(debug=True)
