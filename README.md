@@ -6,7 +6,7 @@ This is a RESTful API that provides survival predictions for passengers on the T
 
 ## API Documentation
 
-You can find the detailed API documentation in the [swagger.json](../tree/main/api/static/swagger.json) file. This file follows the OpenAPI 3.0.3 specification and contains all the necessary information about the API endpoints, request parameters, and response schemas.
+You can find the detailed API documentation in the [swagger.json]([../tree/main/api/static/swagger.json](https://github.com/ErikaMelt/data-ship-api/tree/main/api/static/swagger.json) file. This file follows the OpenAPI 3.0.3 specification and contains all the necessary information about the API endpoints, request parameters, and response schemas.
 
 To access the interactive API documentation using Swagger UI, visit: [Titanic Survival Prediction API Documentation]([https://<your-username>.github.io/<your-repo>/docs/](https://github.com/ErikaMelt/data-ship-api/tree/main/api/static/swagger.json))
 
