@@ -7,6 +7,8 @@ This is a RESTful API that provides survival predictions for passengers on the T
 ## API Documentation
 
 You can find the detailed API documentation in the [swagger.json](https://github.com/ErikaMelt/data-ship-api/tree/main/api/static/swagger.json) file. This file follows the OpenAPI 3.0.3 specification and contains all the necessary information about the API endpoints, request parameters, and response schemas.
+![Swagger UI](https://github.com/ErikaMelt/data-ship-api/tree/main/images/swagger_docs.png)
+
 
 ## Architecture
 
@@ -77,6 +79,8 @@ Response:
 "predictions": [1],
 "probabilities": [[0.2, 0.8]]
 }
+
+![PostMan Example](https://github.com/ErikaMelt/data-ship-api/tree/main/images/postman_post.png)
 
 
 ### GET /ping
