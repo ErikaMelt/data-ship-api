@@ -1,6 +1,7 @@
 import unittest
 import pandas as pd
 import api  
+import config
 
 class TestAPI(unittest.TestCase):
 
@@ -41,8 +42,8 @@ class TestAPI(unittest.TestCase):
             'embarked_from': ['cherbourg', 'southampton', 'cherbourg']
         })
         # Mocking the load_file function to return identity transformers for testing
-        api.config.SCALER_PATH = 'path/to/scaler.pkl'
-        api.config.ONEHOT_PATH = 'path/to/onehot.pkl'
+        api.config.SCALER_PATH = config.SCALER_PATH
+        api.config.ONEHOT_PATH = config.ONEHOT_PATH
 
         # Assume the scaler and one-hot encoder used for training apply no transformation (identity transformers)
         def identity_transform(data):

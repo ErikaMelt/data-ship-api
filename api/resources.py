@@ -34,10 +34,6 @@ class PredictionResource(Resource):
         except Exception as e:
             return {"error": f"An error occurred: {str(e)}"}, 500
 
-    def get(self):
-        return jsonify({'message': 'API is alive'})
 
-#api.add_resource(PredictionResource, '/')
-
-if __name__ == "__main__":
-    app.run(debug=True)
+""" if __name__ == "__main__":
+    app.run(debug=True) """
